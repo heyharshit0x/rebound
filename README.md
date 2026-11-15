@@ -30,7 +30,6 @@ Conquer the guardians, claim the sacred Keys, and restore the Core of Rebound!
 | **Pause Menu** | `ESC` | - |
 
 > 💡 **Combat Tip**: Time your Parry (`L` / `K`) right as an enemy strikes to execute a **Perfect Parry**—negating damage, healing **+6 HP**, and granting **+35 Rebound Energy**!
-
 ---
 
 ## 🌟 Key Features
@@ -44,9 +43,6 @@ Conquer the guardians, claim the sacred Keys, and restore the Core of Rebound!
 
 ---
 
-## 🌐 Play Online
-- **itch.io Demo**: [Play REBOUND on itch.io](https://itch.io) *(Upload in progress via Haven guide)*
-
 ---
 
 ## 👥 Credits
@@ -54,8 +50,3 @@ Created with ❤️ by:
 1. **Harshit**
 2. **Raaj**
 3. **Rishabh**
-
-**Special Thanks**:
-- **Hack Club Haven**
-- Music: *The Demand of Man* (Massive Neo-Classical Violin) & *Dragon Castle* by Makai-symphony
-- Sound Effects: Custom synthesis & Game Audio Sound Pack
