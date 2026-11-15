@@ -1,0 +1,43 @@
+# Godot 4+ specific engine & editor cache
+.godot/
+*.translation
+
+# Export builds & target binaries
+/build/
+/dist/
+/bin/
+/android/
+/ios/
+/web/
+/windows/
+/linux/
+/macos/
+
+# Operating system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+[Dd]esktop.ini
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
+*.log
+
+# Python / Local scripts cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/

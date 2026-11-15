@@ -1,0 +1,966 @@
+{
+ "frames": [
+  {
+   "filename": "player_sword_attack 0",
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 150,
+    "h": 116
+   },
+   "duration": 50
+  },
+  {
+   "filename": "player_sword_attack 1",
+   "frame": {
+    "x": 150,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 150,
+    "h": 116
+   },
+   "duration": 50
+  },
+  {
+   "filename": "player_sword_attack 2",
+   "frame": {
+    "x": 300,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 150,
+    "h": 116
+   },
+   "duration": 50
+  },
+  {
+   "filename": "player_sword_attack 3",
+   "frame": {
+    "x": 450,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 150,
+    "h": 116
+   },
+   "duration": 50
+  },
+  {
+   "filename": "player_sword_attack 4",
+   "frame": {
+    "x": 600,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 150,
+    "h": 116
+   },
+   "duration": 50
+  },
+  {
+   "filename": "player_sword_attack 5",
+   "frame": {
+    "x": 750,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 150,
+    "h": 116
+   },
+   "duration": 50
+  },
+  {
+   "filename": "player_sword_attack 6",
+   "frame": {
+    "x": 0,
+    "y": 116,
+    "w": 150,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 150,
+    "h": 116
+   },
+   "duration": 50
+  },
+  {
+   "filename": "player_sword_attack 7",
+   "frame": {
+    "x": 150,
+    "y": 116,
+    "w": 150,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 150,
+    "h": 116
+   },
+   "duration": 50
+  },
+  {
+   "filename": "player_sword_attack 8",
+   "frame": {
+    "x": 300,
+    "y": 116,
+    "w": 150,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 150,
+    "h": 116
+   },
+   "duration": 50
+  },
+  {
+   "filename": "player_sword_attack 9",
+   "frame": {
+    "x": 450,
+    "y": 116,
+    "w": 150,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 150,
+    "h": 116
+   },
+   "duration": 50
+  },
+  {
+   "filename": "player_sword_attack 10",
+   "frame": {
+    "x": 600,
+    "y": 116,
+    "w": 150,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 150,
+    "h": 116
+   },
+   "duration": 50
+  },
+  {
+   "filename": "player_sword_attack 11",
+   "frame": {
+    "x": 750,
+    "y": 116,
+    "w": 150,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 150,
+    "h": 116
+   },
+   "duration": 50
+  },
+  {
+   "filename": "player_sword_attack 12",
+   "frame": {
+    "x": 0,
+    "y": 232,
+    "w": 150,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 150,
+    "h": 116
+   },
+   "duration": 50
+  },
+  {
+   "filename": "player_sword_attack 13",
+   "frame": {
+    "x": 150,
+    "y": 232,
+    "w": 150,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 150,
+    "h": 116
+   },
+   "duration": 50
+  },
+  {
+   "filename": "player_sword_attack 14",
+   "frame": {
+    "x": 300,
+    "y": 232,
+    "w": 150,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 150,
+    "h": 116
+   },
+   "duration": 50
+  },
+  {
+   "filename": "player_sword_attack 15",
+   "frame": {
+    "x": 450,
+    "y": 232,
+    "w": 150,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 150,
+    "h": 116
+   },
+   "duration": 50
+  },
+  {
+   "filename": "player_sword_attack 16",
+   "frame": {
+    "x": 600,
+    "y": 232,
+    "w": 150,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 150,
+    "h": 116
+   },
+   "duration": 50
+  },
+  {
+   "filename": "player_sword_attack 17",
+   "frame": {
+    "x": 750,
+    "y": 232,
+    "w": 150,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 150,
+    "h": 116
+   },
+   "duration": 50
+  },
+  {
+   "filename": "player_sword_attack 18",
+   "frame": {
+    "x": 0,
+    "y": 348,
+    "w": 150,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 150,
+    "h": 116
+   },
+   "duration": 50
+  },
+  {
+   "filename": "player_sword_attack 19",
+   "frame": {
+    "x": 150,
+    "y": 348,
+    "w": 150,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 150,
+    "h": 116
+   },
+   "duration": 50
+  },
+  {
+   "filename": "player_sword_attack 20",
+   "frame": {
+    "x": 300,
+    "y": 348,
+    "w": 150,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 150,
+    "h": 116
+   },
+   "duration": 50
+  },
+  {
+   "filename": "player_sword_attack 21",
+   "frame": {
+    "x": 450,
+    "y": 348,
+    "w": 150,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 150,
+    "h": 116
+   },
+   "duration": 50
+  },
+  {
+   "filename": "player_sword_attack 22",
+   "frame": {
+    "x": 600,
+    "y": 348,
+    "w": 150,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 150,
+    "h": 116
+   },
+   "duration": 50
+  },
+  {
+   "filename": "player_sword_attack 23",
+   "frame": {
+    "x": 750,
+    "y": 348,
+    "w": 150,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 150,
+    "h": 116
+   },
+   "duration": 50
+  },
+  {
+   "filename": "player_sword_attack 24",
+   "frame": {
+    "x": 0,
+    "y": 464,
+    "w": 150,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 150,
+    "h": 116
+   },
+   "duration": 50
+  },
+  {
+   "filename": "player_sword_attack 25",
+   "frame": {
+    "x": 150,
+    "y": 464,
+    "w": 150,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 150,
+    "h": 116
+   },
+   "duration": 50
+  },
+  {
+   "filename": "player_sword_attack 26",
+   "frame": {
+    "x": 300,
+    "y": 464,
+    "w": 150,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 150,
+    "h": 116
+   },
+   "duration": 50
+  },
+  {
+   "filename": "player_sword_attack 27",
+   "frame": {
+    "x": 450,
+    "y": 464,
+    "w": 150,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 150,
+    "h": 116
+   },
+   "duration": 50
+  },
+  {
+   "filename": "player_sword_attack 28",
+   "frame": {
+    "x": 600,
+    "y": 464,
+    "w": 150,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 150,
+    "h": 116
+   },
+   "duration": 50
+  },
+  {
+   "filename": "player_sword_attack 29",
+   "frame": {
+    "x": 750,
+    "y": 464,
+    "w": 150,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 150,
+    "h": 116
+   },
+   "duration": 50
+  },
+  {
+   "filename": "player_sword_attack 30",
+   "frame": {
+    "x": 0,
+    "y": 580,
+    "w": 150,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 150,
+    "h": 116
+   },
+   "duration": 50
+  },
+  {
+   "filename": "player_sword_attack 31",
+   "frame": {
+    "x": 150,
+    "y": 580,
+    "w": 150,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 150,
+    "h": 116
+   },
+   "duration": 50
+  },
+  {
+   "filename": "player_sword_attack 32",
+   "frame": {
+    "x": 300,
+    "y": 580,
+    "w": 150,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 150,
+    "h": 116
+   },
+   "duration": 50
+  },
+  {
+   "filename": "player_sword_attack 33",
+   "frame": {
+    "x": 450,
+    "y": 580,
+    "w": 150,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 150,
+    "h": 116
+   },
+   "duration": 50
+  },
+  {
+   "filename": "player_sword_attack 34",
+   "frame": {
+    "x": 600,
+    "y": 580,
+    "w": 150,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 150,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 150,
+    "h": 116
+   },
+   "duration": 50
+  }
+ ],
+ "meta": {
+  "app": "https://github.com/patch-gg/pixelfx",
+  "version": "1",
+  "image": "player_sword_attack.png",
+  "format": "RGBA8888",
+  "size": {
+   "w": 900,
+   "h": 696
+  },
+  "scale": "1",
+  "frameTags": [
+   {
+    "name": "player_sword_attack",
+    "from": 0,
+    "to": 34,
+    "direction": "forward"
+   }
+  ],
+  "pixelfx": {
+   "id": "melee/sword-slash",
+   "name": "Sword slash",
+   "fps": 20,
+   "loop": false,
+   "frames": 35,
+   "frameSize": [
+    150,
+    116
+   ],
+   "pivot": [
+    44,
+    92
+   ],
+   "columns": 6,
+   "act": {
+    "windup": 0.55,
+    "recovery": 0.10999999999999999,
+    "onBody": false,
+    "targets": [
+     58
+    ],
+    "hits": [
+     {
+      "t": 0.06,
+      "freeze": 0.14,
+      "shake": 0.18,
+      "amp": 2,
+      "push": 2.8
+     }
+    ],
+    "poses": [
+     {
+      "t": -0.55,
+      "how": "smooth",
+      "pose": {
+       "crouch": 3,
+       "fx": 12,
+       "fy": -21,
+       "bx": 9,
+       "by": -21,
+       "ffx": 7,
+       "fbx": -7,
+       "weapon": "sword",
+       "sa": -0.85,
+       "x": -8
+      }
+     },
+     {
+      "t": -0.3,
+      "how": "smooth",
+      "pose": {
+       "crouch": 4,
+       "fx": -7,
+       "fy": -35,
+       "bx": 9,
+       "by": -25,
+       "ffx": 9,
+       "fbx": -8,
+       "weapon": "sword",
+       "sa": -2.65,
+       "x": -8,
+       "lean": -4,
+       "armsFront": true
+      }
+     },
+     {
+      "t": -0.08,
+      "how": "smooth",
+      "pose": {
+       "crouch": 5,
+       "fx": -7,
+       "fy": -35,
+       "bx": 9,
+       "by": -25,
+       "ffx": 9,
+       "fbx": -8,
+       "weapon": "sword",
+       "sa": -2.65,
+       "x": -8,
+       "lean": -5,
+       "armsFront": true
+      }
+     },
+     {
+      "t": 0,
+      "how": "snap",
+      "pose": {
+       "crouch": 2,
+       "fx": 16,
+       "fy": -37,
+       "bx": -7,
+       "by": -24,
+       "ffx": 11,
+       "fbx": -10,
+       "weapon": "sword",
+       "sa": -1.45,
+       "x": 0,
+       "lean": 3,
+       "ghost": 1
+      }
+     },
+     {
+      "t": 0.06,
+      "how": "snap",
+      "pose": {
+       "crouch": 5,
+       "fx": 20,
+       "fy": -21,
+       "bx": -9,
+       "by": -24,
+       "ffx": 13,
+       "fbx": -10,
+       "weapon": "sword",
+       "sa": 0.62,
+       "x": 2,
+       "lean": 5,
+       "toeB": true
+      }
+     },
+     {
+      "t": 0.3,
+      "how": "smooth",
+      "pose": {
+       "crouch": 6,
+       "fx": 20,
+       "fy": -21,
+       "bx": -9,
+       "by": -24,
+       "ffx": 13,
+       "fbx": -10,
+       "weapon": "sword",
+       "sa": 0.62,
+       "x": 3,
+       "lean": 5,
+       "toeB": true
+      }
+     },
+     {
+      "t": 0.58,
+      "how": "smooth",
+      "pose": {
+       "crouch": 3,
+       "fx": 15,
+       "fy": -21,
+       "bx": -5,
+       "by": -21,
+       "ffx": 9,
+       "fbx": -7,
+       "weapon": "sword",
+       "sa": 0.1,
+       "x": 1
+      }
+     },
+     {
+      "t": 0.86,
+      "how": "smooth",
+      "pose": {
+       "crouch": 3,
+       "fx": 12,
+       "fy": -21,
+       "bx": 9,
+       "by": -21,
+       "ffx": 7,
+       "fbx": -7,
+       "weapon": "sword",
+       "sa": -0.85,
+       "x": -8
+      }
+     }
+    ]
+   }
+  }
+ }
+}

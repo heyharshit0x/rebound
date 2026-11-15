@@ -1,0 +1,288 @@
+[gd_scene format=3 uid="uid://b3yiqldsfnqnd"]
+
+[ext_resource type="Script" uid="uid://byhtdm4rkpbd3" path="res://src/levels/Level01.gd" id="1_lvl_script"]
+[ext_resource type="PackedScene" uid="uid://b2k8rebound01" path="res://src/player/Player.tscn" id="2_player"]
+[ext_resource type="PackedScene" uid="uid://o0rfqx3vdvy8" path="res://src/enemies/WispEnemy.tscn" id="3_wisp"]
+[ext_resource type="PackedScene" uid="uid://c1xrt2dnw8cdx" path="res://src/enemies/SlimeEnemy.tscn" id="4_slime"]
+[ext_resource type="PackedScene" uid="uid://hud01rebound" path="res://src/ui/HUD.tscn" id="5_hud"]
+[ext_resource type="SpriteFrames" uid="uid://dbc0xiuyashsr" path="res://assets/vfx/environment/void_portal/void_portal.tres" id="6_portal"]
+[ext_resource type="SpriteFrames" uid="uid://dye50foepp11q" path="res://assets/vfx/environment/torch/torch.tres" id="7_torch"]
+[ext_resource type="Script" uid="uid://b35utlysaaocm" path="res://src/environment/KeyPickup.gd" id="8_key_script"]
+[ext_resource type="Texture2D" uid="uid://dkj72e3yj2lv3" path="res://assets/pickups/keys/02-steel-key.png" id="9_steel_key"]
+[ext_resource type="Texture2D" uid="uid://baqkqg0kod8bf" path="res://assets/environment/backgrounds/bg_01_sky.png" id="10_sky"]
+[ext_resource type="Texture2D" uid="uid://ep43frvckciw" path="res://assets/environment/backgrounds/bg_02_distant_ruins.png" id="11_ruins"]
+[ext_resource type="Texture2D" uid="uid://cwl44sin05doh" path="res://assets/environment/backgrounds/bg_03_pillars.png" id="12_pillars"]
+[ext_resource type="Texture2D" uid="uid://d3u03ewoc0ewq" path="res://assets/environment/tiles/stone_platform_tile.png" id="13_stone_tile"]
+[ext_resource type="Texture2D" uid="uid://d0alanvwvmlau" path="res://assets/environment/tiles/spikes_hazard.png" id="14_spikes_tex"]
+[ext_resource type="Script" uid="uid://dpwggaif00m5k" path="res://src/combat/Hitbox.gd" id="15_hitbox"]
+[ext_resource type="PackedScene" uid="uid://c7i0pukrqyegr" path="res://src/enemies/FlyingSkullEnemy.tscn" id="16_skull"]
+[ext_resource type="PackedScene" uid="uid://oqtfi4qn2fj6" path="res://src/environment/HeartPickup.tscn" id="17_heart"]
+[ext_resource type="PackedScene" uid="uid://bkexw6xopqulx" path="res://src/enemies/VoidEyeEnemy.tscn" id="18_voideye"]
+[ext_resource type="PackedScene" uid="uid://bci3re4dumhsn" path="res://src/enemies/ShadowBatEnemy.tscn" id="19_bat"]
+[ext_resource type="PackedScene" uid="uid://u3gjjk624sro" path="res://src/enemies/ShadowKnightEnemy.tscn" id="20_knight"]
+[ext_resource type="Texture2D" path="res://assets/environment/backgrounds/celestial_rift.png" id="21_rift"]
+[ext_resource type="Texture2D" path="res://assets/environment/tiles/star_particle.png" id="22_mote"]
+[ext_resource type="Texture2D" path="res://assets/environment/tiles/torch_halo.png" id="23_halo"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_floor"]
+size = Vector2(760, 40)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_plat_med"]
+size = Vector2(128, 32)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_plat_high"]
+size = Vector2(96, 32)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_wall"]
+size = Vector2(30, 340)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_spikes"]
+size = Vector2(64, 14)
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_portal"]
+radius = 38.0
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_key"]
+
+[node name="Level01" type="Node2D" unique_id=1672722836]
+script = ExtResource("1_lvl_script")
+
+[node name="ParallaxBackground" type="ParallaxBackground" parent="." unique_id=1062379779]
+
+[node name="ParallaxLayer_Sky" type="ParallaxLayer" parent="ParallaxBackground" unique_id=669856181]
+motion_scale = Vector2(0.05, 0.05)
+motion_mirroring = Vector2(480, 270)
+
+[node name="SkySprite" type="Sprite2D" parent="ParallaxBackground/ParallaxLayer_Sky" unique_id=297003563]
+texture = ExtResource("10_sky")
+centered = false
+
+[node name="CelestialRift" type="Sprite2D" parent="ParallaxBackground/ParallaxLayer_Sky"]
+modulate = Color(1.6, 1.2, 2.5, 0.92)
+position = Vector2(240, 55)
+scale = Vector2(0.85, 0.85)
+texture = ExtResource("21_rift")
+
+[node name="ParallaxLayer_Ruins" type="ParallaxLayer" parent="ParallaxBackground" unique_id=1285685988]
+motion_scale = Vector2(0.2, 0.12)
+motion_mirroring = Vector2(480, 270)
+
+[node name="RuinsSprite" type="Sprite2D" parent="ParallaxBackground/ParallaxLayer_Ruins" unique_id=1455657281]
+texture = ExtResource("11_ruins")
+centered = false
+
+[node name="ParallaxLayer_Pillars" type="ParallaxLayer" parent="ParallaxBackground" unique_id=997376485]
+motion_scale = Vector2(0.45, 0.28)
+motion_mirroring = Vector2(480, 270)
+
+[node name="PillarsSprite" type="Sprite2D" parent="ParallaxBackground/ParallaxLayer_Pillars" unique_id=1268482268]
+texture = ExtResource("12_pillars")
+centered = false
+
+[node name="StaticGeometry" type="StaticBody2D" parent="." unique_id=216073935]
+collision_mask = 0
+
+[node name="MainFloorShape" type="CollisionShape2D" parent="StaticGeometry" unique_id=68005957]
+position = Vector2(370, 250)
+shape = SubResource("RectangleShape2D_floor")
+
+[node name="FloorVisual" type="TextureRect" parent="StaticGeometry/MainFloorShape" unique_id=1788232150]
+texture_repeat = 2
+offset_left = -380.0
+offset_top = -20.0
+offset_right = 380.0
+offset_bottom = 20.0
+texture = ExtResource("13_stone_tile")
+stretch_mode = 1
+
+[node name="PlatformLeftShape" type="CollisionShape2D" parent="StaticGeometry" unique_id=1769385753]
+position = Vector2(170, 175)
+shape = SubResource("RectangleShape2D_plat_med")
+
+[node name="PlatLeftVisual" type="TextureRect" parent="StaticGeometry/PlatformLeftShape" unique_id=1592128077]
+texture_repeat = 2
+offset_left = -64.0
+offset_top = -16.0
+offset_right = 64.0
+offset_bottom = 16.0
+texture = ExtResource("13_stone_tile")
+stretch_mode = 1
+
+[node name="PlatformMidShape" type="CollisionShape2D" parent="StaticGeometry" unique_id=862808885]
+position = Vector2(340, 125)
+shape = SubResource("RectangleShape2D_plat_med")
+
+[node name="PlatMidVisual" type="TextureRect" parent="StaticGeometry/PlatformMidShape" unique_id=134392154]
+texture_repeat = 2
+offset_left = -64.0
+offset_top = -16.0
+offset_right = 64.0
+offset_bottom = 16.0
+texture = ExtResource("13_stone_tile")
+stretch_mode = 1
+
+[node name="PlatformHighShape" type="CollisionShape2D" parent="StaticGeometry" unique_id=618779287]
+position = Vector2(510, 80)
+shape = SubResource("RectangleShape2D_plat_high")
+
+[node name="PlatHighVisual" type="TextureRect" parent="StaticGeometry/PlatformHighShape" unique_id=2002180612]
+texture_repeat = 2
+offset_left = -48.0
+offset_top = -16.0
+offset_right = 48.0
+offset_bottom = 16.0
+texture = ExtResource("13_stone_tile")
+stretch_mode = 1
+
+[node name="PlatformExitShape" type="CollisionShape2D" parent="StaticGeometry" unique_id=22874416]
+position = Vector2(670, 155)
+shape = SubResource("RectangleShape2D_plat_med")
+
+[node name="PlatExitVisual" type="TextureRect" parent="StaticGeometry/PlatformExitShape" unique_id=1763956292]
+texture_repeat = 2
+offset_left = -64.0
+offset_top = -16.0
+offset_right = 64.0
+offset_bottom = 16.0
+texture = ExtResource("13_stone_tile")
+stretch_mode = 1
+
+[node name="LeftWall" type="CollisionShape2D" parent="StaticGeometry" unique_id=1417594710]
+position = Vector2(-15, 120)
+shape = SubResource("RectangleShape2D_wall")
+
+[node name="RightWall" type="CollisionShape2D" parent="StaticGeometry" unique_id=435401865]
+position = Vector2(745, 120)
+shape = SubResource("RectangleShape2D_wall")
+
+[node name="Spikes" type="Area2D" parent="." unique_id=62784362]
+position = Vector2(340, 222)
+collision_layer = 4
+collision_mask = 2
+script = ExtResource("15_hitbox")
+faction = 1
+damage = 12
+knockback_force = 320.0
+knockback_direction = Vector2(0.2, -1)
+is_parriable = false
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Spikes" unique_id=2022848592]
+position = Vector2(0, 1)
+shape = SubResource("RectangleShape2D_spikes")
+debug_color = Color(0.95, 0.1, 0.2, 0.4)
+
+[node name="SpikeVisual" type="Sprite2D" parent="Spikes" unique_id=1833758641]
+texture = ExtResource("14_spikes_tex")
+
+[node name="VoidMotes" type="CPUParticles2D" parent="."]
+z_index = -1
+position = Vector2(380, 120)
+amount = 55
+lifetime = 4.5
+preprocess = 2.0
+texture = ExtResource("22_mote")
+emission_shape = 3
+emission_rect_extents = Vector2(400, 150)
+direction = Vector2(0.2, -1)
+spread = 35.0
+gravity = Vector2(0, -6)
+initial_velocity_min = 6.0
+initial_velocity_max = 16.0
+scale_amount_min = 0.4
+scale_amount_max = 1.2
+color = Color(1.4, 1.1, 2.2, 0.85)
+
+[node name="Torch1" type="AnimatedSprite2D" parent="." unique_id=1175323476]
+modulate = Color(1, 0.9, 0.8, 0.8)
+position = Vector2(80, 150)
+scale = Vector2(0.22, 0.22)
+sprite_frames = ExtResource("7_torch")
+autoplay = "default"
+
+[node name="Halo1" type="Sprite2D" parent="Torch1"]
+modulate = Color(2.4, 1.4, 0.4, 0.6)
+scale = Vector2(2.5, 2.5)
+texture = ExtResource("23_halo")
+
+[node name="Torch2" type="AnimatedSprite2D" parent="." unique_id=1639773478]
+modulate = Color(1, 0.9, 0.8, 0.8)
+position = Vector2(610, 115)
+scale = Vector2(0.22, 0.22)
+sprite_frames = ExtResource("7_torch")
+autoplay = "default"
+
+[node name="Halo2" type="Sprite2D" parent="Torch2"]
+modulate = Color(2.4, 1.4, 0.4, 0.6)
+scale = Vector2(2.5, 2.5)
+texture = ExtResource("23_halo")
+
+[node name="VoidPortal" type="AnimatedSprite2D" parent="." unique_id=1456153378]
+position = Vector2(670, 98)
+scale = Vector2(0.68, 0.68)
+sprite_frames = ExtResource("6_portal")
+autoplay = "default"
+
+[node name="PortalStatusLabel" type="Label" parent="VoidPortal" unique_id=893040169]
+offset_left = -120.0
+offset_top = -78.0
+offset_right = 120.0
+offset_bottom = -54.0
+theme_override_colors/font_color = Color(0.9, 0.7, 1, 0.9)
+theme_override_colors/font_shadow_color = Color(0, 0, 0, 0.9)
+theme_override_constants/shadow_offset_x = 2
+theme_override_constants/shadow_offset_y = 2
+theme_override_font_sizes/font_size = 14
+text = "LOCKED [Find Steel Key]"
+horizontal_alignment = 1
+
+[node name="PortalArea" type="Area2D" parent="." unique_id=1152859027]
+position = Vector2(670, 105)
+collision_layer = 0
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="PortalArea" unique_id=1129802578]
+shape = SubResource("CircleShape2D_portal")
+
+[node name="KeyPickup" type="Area2D" parent="." unique_id=615285134]
+position = Vector2(510, 50)
+scale = Vector2(0.85, 0.85)
+script = ExtResource("8_key_script")
+key_texture = ExtResource("9_steel_key")
+
+[node name="Sprite2D" type="Sprite2D" parent="KeyPickup" unique_id=641236973]
+texture = ExtResource("9_steel_key")
+hframes = 8
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="KeyPickup" unique_id=62288269]
+shape = SubResource("CircleShape2D_key")
+
+[node name="SlimeEnemy1" parent="." unique_id=1327962349 instance=ExtResource("4_slime")]
+position = Vector2(210, 230)
+
+[node name="SlimeEnemy2" parent="." unique_id=785292532 instance=ExtResource("4_slime")]
+position = Vector2(530, 230)
+
+[node name="WispEnemy1" parent="." unique_id=1030506428 instance=ExtResource("3_wisp")]
+position = Vector2(340, 95)
+
+[node name="HeartPickup" parent="." unique_id=1480432336 instance=ExtResource("17_heart")]
+position = Vector2(300, 100)
+
+[node name="WispEnemy2" parent="." unique_id=1435861340 instance=ExtResource("3_wisp")]
+position = Vector2(510, 50)
+
+[node name="FlyingSkullEnemy" parent="." unique_id=1933084277 instance=ExtResource("16_skull")]
+position = Vector2(440, 60)
+
+[node name="ShadowBatEnemy" parent="." unique_id=2127929758 instance=ExtResource("19_bat")]
+position = Vector2(250, 45)
+
+[node name="VoidEyeEnemy" parent="." unique_id=1368017764 instance=ExtResource("18_voideye")]
+position = Vector2(610, 85)
+
+[node name="ShadowKnightEnemy" parent="." unique_id=120460444 instance=ExtResource("20_knight")]
+position = Vector2(465, 231)
+
+[node name="Player" parent="." unique_id=1143795967 instance=ExtResource("2_player")]
+position = Vector2(50, 230)
+
+[node name="HUD" parent="." unique_id=1318799484 instance=ExtResource("5_hud")]

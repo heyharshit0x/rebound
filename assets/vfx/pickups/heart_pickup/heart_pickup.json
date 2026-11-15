@@ -1,0 +1,831 @@
+{
+ "frames": [
+  {
+   "filename": "heart_pickup 0",
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 60
+   },
+   "duration": 33
+  },
+  {
+   "filename": "heart_pickup 1",
+   "frame": {
+    "x": 56,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 60
+   },
+   "duration": 33
+  },
+  {
+   "filename": "heart_pickup 2",
+   "frame": {
+    "x": 112,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 60
+   },
+   "duration": 33
+  },
+  {
+   "filename": "heart_pickup 3",
+   "frame": {
+    "x": 168,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 60
+   },
+   "duration": 33
+  },
+  {
+   "filename": "heart_pickup 4",
+   "frame": {
+    "x": 224,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 60
+   },
+   "duration": 33
+  },
+  {
+   "filename": "heart_pickup 5",
+   "frame": {
+    "x": 280,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 60
+   },
+   "duration": 33
+  },
+  {
+   "filename": "heart_pickup 6",
+   "frame": {
+    "x": 336,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 60
+   },
+   "duration": 33
+  },
+  {
+   "filename": "heart_pickup 7",
+   "frame": {
+    "x": 0,
+    "y": 60,
+    "w": 56,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 60
+   },
+   "duration": 33
+  },
+  {
+   "filename": "heart_pickup 8",
+   "frame": {
+    "x": 56,
+    "y": 60,
+    "w": 56,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 60
+   },
+   "duration": 33
+  },
+  {
+   "filename": "heart_pickup 9",
+   "frame": {
+    "x": 112,
+    "y": 60,
+    "w": 56,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 60
+   },
+   "duration": 33
+  },
+  {
+   "filename": "heart_pickup 10",
+   "frame": {
+    "x": 168,
+    "y": 60,
+    "w": 56,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 60
+   },
+   "duration": 33
+  },
+  {
+   "filename": "heart_pickup 11",
+   "frame": {
+    "x": 224,
+    "y": 60,
+    "w": 56,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 60
+   },
+   "duration": 33
+  },
+  {
+   "filename": "heart_pickup 12",
+   "frame": {
+    "x": 280,
+    "y": 60,
+    "w": 56,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 60
+   },
+   "duration": 33
+  },
+  {
+   "filename": "heart_pickup 13",
+   "frame": {
+    "x": 336,
+    "y": 60,
+    "w": 56,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 60
+   },
+   "duration": 33
+  },
+  {
+   "filename": "heart_pickup 14",
+   "frame": {
+    "x": 0,
+    "y": 120,
+    "w": 56,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 60
+   },
+   "duration": 33
+  },
+  {
+   "filename": "heart_pickup 15",
+   "frame": {
+    "x": 56,
+    "y": 120,
+    "w": 56,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 60
+   },
+   "duration": 33
+  },
+  {
+   "filename": "heart_pickup 16",
+   "frame": {
+    "x": 112,
+    "y": 120,
+    "w": 56,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 60
+   },
+   "duration": 33
+  },
+  {
+   "filename": "heart_pickup 17",
+   "frame": {
+    "x": 168,
+    "y": 120,
+    "w": 56,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 60
+   },
+   "duration": 33
+  },
+  {
+   "filename": "heart_pickup 18",
+   "frame": {
+    "x": 224,
+    "y": 120,
+    "w": 56,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 60
+   },
+   "duration": 33
+  },
+  {
+   "filename": "heart_pickup 19",
+   "frame": {
+    "x": 280,
+    "y": 120,
+    "w": 56,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 60
+   },
+   "duration": 33
+  },
+  {
+   "filename": "heart_pickup 20",
+   "frame": {
+    "x": 336,
+    "y": 120,
+    "w": 56,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 60
+   },
+   "duration": 33
+  },
+  {
+   "filename": "heart_pickup 21",
+   "frame": {
+    "x": 0,
+    "y": 180,
+    "w": 56,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 60
+   },
+   "duration": 33
+  },
+  {
+   "filename": "heart_pickup 22",
+   "frame": {
+    "x": 56,
+    "y": 180,
+    "w": 56,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 60
+   },
+   "duration": 33
+  },
+  {
+   "filename": "heart_pickup 23",
+   "frame": {
+    "x": 112,
+    "y": 180,
+    "w": 56,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 60
+   },
+   "duration": 33
+  },
+  {
+   "filename": "heart_pickup 24",
+   "frame": {
+    "x": 168,
+    "y": 180,
+    "w": 56,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 60
+   },
+   "duration": 33
+  },
+  {
+   "filename": "heart_pickup 25",
+   "frame": {
+    "x": 224,
+    "y": 180,
+    "w": 56,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 60
+   },
+   "duration": 33
+  },
+  {
+   "filename": "heart_pickup 26",
+   "frame": {
+    "x": 280,
+    "y": 180,
+    "w": 56,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 60
+   },
+   "duration": 33
+  },
+  {
+   "filename": "heart_pickup 27",
+   "frame": {
+    "x": 336,
+    "y": 180,
+    "w": 56,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 60
+   },
+   "duration": 33
+  },
+  {
+   "filename": "heart_pickup 28",
+   "frame": {
+    "x": 0,
+    "y": 240,
+    "w": 56,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 60
+   },
+   "duration": 33
+  },
+  {
+   "filename": "heart_pickup 29",
+   "frame": {
+    "x": 56,
+    "y": 240,
+    "w": 56,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 60
+   },
+   "duration": 33
+  },
+  {
+   "filename": "heart_pickup 30",
+   "frame": {
+    "x": 112,
+    "y": 240,
+    "w": 56,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 60
+   },
+   "duration": 33
+  },
+  {
+   "filename": "heart_pickup 31",
+   "frame": {
+    "x": 168,
+    "y": 240,
+    "w": 56,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 60
+   },
+   "duration": 33
+  },
+  {
+   "filename": "heart_pickup 32",
+   "frame": {
+    "x": 224,
+    "y": 240,
+    "w": 56,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 60
+   },
+   "duration": 33
+  },
+  {
+   "filename": "heart_pickup 33",
+   "frame": {
+    "x": 280,
+    "y": 240,
+    "w": 56,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 60
+   },
+   "duration": 33
+  },
+  {
+   "filename": "heart_pickup 34",
+   "frame": {
+    "x": 336,
+    "y": 240,
+    "w": 56,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 60
+   },
+   "duration": 33
+  },
+  {
+   "filename": "heart_pickup 35",
+   "frame": {
+    "x": 0,
+    "y": 300,
+    "w": 56,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 60
+   },
+   "duration": 33
+  }
+ ],
+ "meta": {
+  "app": "https://github.com/patch-gg/pixelfx",
+  "version": "1",
+  "image": "heart_pickup.png",
+  "format": "RGBA8888",
+  "size": {
+   "w": 392,
+   "h": 360
+  },
+  "scale": "1",
+  "frameTags": [
+   {
+    "name": "heart_pickup",
+    "from": 0,
+    "to": 35,
+    "direction": "forward"
+   }
+  ],
+  "pixelfx": {
+   "id": "pickups/heart-pickup",
+   "name": "Heart pickup",
+   "fps": 30,
+   "loop": true,
+   "frames": 36,
+   "frameSize": [
+    56,
+    60
+   ],
+   "pivot": [
+    28,
+    52
+   ],
+   "columns": 7
+  }
+ }
+}

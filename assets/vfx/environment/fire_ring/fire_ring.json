@@ -1,0 +1,2782 @@
+{
+ "frames": [
+  {
+   "filename": "fire_ring 0",
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 1",
+   "frame": {
+    "x": 224,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 2",
+   "frame": {
+    "x": 448,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 3",
+   "frame": {
+    "x": 672,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 4",
+   "frame": {
+    "x": 896,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 5",
+   "frame": {
+    "x": 1120,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 6",
+   "frame": {
+    "x": 1344,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 7",
+   "frame": {
+    "x": 1568,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 8",
+   "frame": {
+    "x": 1792,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 9",
+   "frame": {
+    "x": 0,
+    "y": 128,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 10",
+   "frame": {
+    "x": 224,
+    "y": 128,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 11",
+   "frame": {
+    "x": 448,
+    "y": 128,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 12",
+   "frame": {
+    "x": 672,
+    "y": 128,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 13",
+   "frame": {
+    "x": 896,
+    "y": 128,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 14",
+   "frame": {
+    "x": 1120,
+    "y": 128,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 15",
+   "frame": {
+    "x": 1344,
+    "y": 128,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 16",
+   "frame": {
+    "x": 1568,
+    "y": 128,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 17",
+   "frame": {
+    "x": 1792,
+    "y": 128,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 18",
+   "frame": {
+    "x": 0,
+    "y": 256,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 19",
+   "frame": {
+    "x": 224,
+    "y": 256,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 20",
+   "frame": {
+    "x": 448,
+    "y": 256,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 21",
+   "frame": {
+    "x": 672,
+    "y": 256,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 22",
+   "frame": {
+    "x": 896,
+    "y": 256,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 23",
+   "frame": {
+    "x": 1120,
+    "y": 256,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 24",
+   "frame": {
+    "x": 1344,
+    "y": 256,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 25",
+   "frame": {
+    "x": 1568,
+    "y": 256,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 26",
+   "frame": {
+    "x": 1792,
+    "y": 256,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 27",
+   "frame": {
+    "x": 0,
+    "y": 384,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 28",
+   "frame": {
+    "x": 224,
+    "y": 384,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 29",
+   "frame": {
+    "x": 448,
+    "y": 384,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 30",
+   "frame": {
+    "x": 672,
+    "y": 384,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 31",
+   "frame": {
+    "x": 896,
+    "y": 384,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 32",
+   "frame": {
+    "x": 1120,
+    "y": 384,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 33",
+   "frame": {
+    "x": 1344,
+    "y": 384,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 34",
+   "frame": {
+    "x": 1568,
+    "y": 384,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 35",
+   "frame": {
+    "x": 1792,
+    "y": 384,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 36",
+   "frame": {
+    "x": 0,
+    "y": 512,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 37",
+   "frame": {
+    "x": 224,
+    "y": 512,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 38",
+   "frame": {
+    "x": 448,
+    "y": 512,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 39",
+   "frame": {
+    "x": 672,
+    "y": 512,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 40",
+   "frame": {
+    "x": 896,
+    "y": 512,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 41",
+   "frame": {
+    "x": 1120,
+    "y": 512,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 42",
+   "frame": {
+    "x": 1344,
+    "y": 512,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 43",
+   "frame": {
+    "x": 1568,
+    "y": 512,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 44",
+   "frame": {
+    "x": 1792,
+    "y": 512,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 45",
+   "frame": {
+    "x": 0,
+    "y": 640,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 46",
+   "frame": {
+    "x": 224,
+    "y": 640,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 47",
+   "frame": {
+    "x": 448,
+    "y": 640,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 48",
+   "frame": {
+    "x": 672,
+    "y": 640,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 49",
+   "frame": {
+    "x": 896,
+    "y": 640,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 50",
+   "frame": {
+    "x": 1120,
+    "y": 640,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 51",
+   "frame": {
+    "x": 1344,
+    "y": 640,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 52",
+   "frame": {
+    "x": 1568,
+    "y": 640,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 53",
+   "frame": {
+    "x": 1792,
+    "y": 640,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 54",
+   "frame": {
+    "x": 0,
+    "y": 768,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 55",
+   "frame": {
+    "x": 224,
+    "y": 768,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 56",
+   "frame": {
+    "x": 448,
+    "y": 768,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 57",
+   "frame": {
+    "x": 672,
+    "y": 768,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 58",
+   "frame": {
+    "x": 896,
+    "y": 768,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 59",
+   "frame": {
+    "x": 1120,
+    "y": 768,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 60",
+   "frame": {
+    "x": 1344,
+    "y": 768,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 61",
+   "frame": {
+    "x": 1568,
+    "y": 768,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 62",
+   "frame": {
+    "x": 1792,
+    "y": 768,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 63",
+   "frame": {
+    "x": 0,
+    "y": 896,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 64",
+   "frame": {
+    "x": 224,
+    "y": 896,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 65",
+   "frame": {
+    "x": 448,
+    "y": 896,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 66",
+   "frame": {
+    "x": 672,
+    "y": 896,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 67",
+   "frame": {
+    "x": 896,
+    "y": 896,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 68",
+   "frame": {
+    "x": 1120,
+    "y": 896,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 69",
+   "frame": {
+    "x": 1344,
+    "y": 896,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 70",
+   "frame": {
+    "x": 1568,
+    "y": 896,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 71",
+   "frame": {
+    "x": 1792,
+    "y": 896,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 72",
+   "frame": {
+    "x": 0,
+    "y": 1024,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 73",
+   "frame": {
+    "x": 224,
+    "y": 1024,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 74",
+   "frame": {
+    "x": 448,
+    "y": 1024,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 75",
+   "frame": {
+    "x": 672,
+    "y": 1024,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 76",
+   "frame": {
+    "x": 896,
+    "y": 1024,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 77",
+   "frame": {
+    "x": 1120,
+    "y": 1024,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 78",
+   "frame": {
+    "x": 1344,
+    "y": 1024,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 79",
+   "frame": {
+    "x": 1568,
+    "y": 1024,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 80",
+   "frame": {
+    "x": 1792,
+    "y": 1024,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 81",
+   "frame": {
+    "x": 0,
+    "y": 1152,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 82",
+   "frame": {
+    "x": 224,
+    "y": 1152,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 83",
+   "frame": {
+    "x": 448,
+    "y": 1152,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 84",
+   "frame": {
+    "x": 672,
+    "y": 1152,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 85",
+   "frame": {
+    "x": 896,
+    "y": 1152,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 86",
+   "frame": {
+    "x": 1120,
+    "y": 1152,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 87",
+   "frame": {
+    "x": 1344,
+    "y": 1152,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 88",
+   "frame": {
+    "x": 1568,
+    "y": 1152,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 89",
+   "frame": {
+    "x": 1792,
+    "y": 1152,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 90",
+   "frame": {
+    "x": 0,
+    "y": 1280,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 91",
+   "frame": {
+    "x": 224,
+    "y": 1280,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 92",
+   "frame": {
+    "x": 448,
+    "y": 1280,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 93",
+   "frame": {
+    "x": 672,
+    "y": 1280,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 94",
+   "frame": {
+    "x": 896,
+    "y": 1280,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 95",
+   "frame": {
+    "x": 1120,
+    "y": 1280,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 96",
+   "frame": {
+    "x": 1344,
+    "y": 1280,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 97",
+   "frame": {
+    "x": 1568,
+    "y": 1280,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 98",
+   "frame": {
+    "x": 1792,
+    "y": 1280,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 99",
+   "frame": {
+    "x": 0,
+    "y": 1408,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 100",
+   "frame": {
+    "x": 224,
+    "y": 1408,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 101",
+   "frame": {
+    "x": 448,
+    "y": 1408,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 102",
+   "frame": {
+    "x": 672,
+    "y": 1408,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 103",
+   "frame": {
+    "x": 896,
+    "y": 1408,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 104",
+   "frame": {
+    "x": 1120,
+    "y": 1408,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 105",
+   "frame": {
+    "x": 1344,
+    "y": 1408,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 106",
+   "frame": {
+    "x": 1568,
+    "y": 1408,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 107",
+   "frame": {
+    "x": 1792,
+    "y": 1408,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 108",
+   "frame": {
+    "x": 0,
+    "y": 1536,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 109",
+   "frame": {
+    "x": 224,
+    "y": 1536,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 110",
+   "frame": {
+    "x": 448,
+    "y": 1536,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 111",
+   "frame": {
+    "x": 672,
+    "y": 1536,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 112",
+   "frame": {
+    "x": 896,
+    "y": 1536,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 113",
+   "frame": {
+    "x": 1120,
+    "y": 1536,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 114",
+   "frame": {
+    "x": 1344,
+    "y": 1536,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 115",
+   "frame": {
+    "x": 1568,
+    "y": 1536,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 116",
+   "frame": {
+    "x": 1792,
+    "y": 1536,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  },
+  {
+   "filename": "fire_ring 117",
+   "frame": {
+    "x": 0,
+    "y": 1664,
+    "w": 224,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 128
+   },
+   "duration": 33
+  }
+ ],
+ "meta": {
+  "app": "https://github.com/patch-gg/pixelfx",
+  "version": "1",
+  "image": "fire_ring.png",
+  "format": "RGBA8888",
+  "size": {
+   "w": 2016,
+   "h": 1792
+  },
+  "scale": "1",
+  "frameTags": [
+   {
+    "name": "fire_ring",
+    "from": 0,
+    "to": 117,
+    "direction": "forward"
+   }
+  ],
+  "pixelfx": {
+   "id": "fire/fire-ring",
+   "name": "Fire ring",
+   "fps": 30,
+   "loop": false,
+   "frames": 118,
+   "frameSize": [
+    224,
+    128
+   ],
+   "pivot": [
+    112,
+    92
+   ],
+   "columns": 9,
+   "act": {
+    "windup": 0.32,
+    "recovery": 0,
+    "onBody": false,
+    "targets": [
+     70
+    ],
+    "hits": [
+     {
+      "t": 0.32,
+      "freeze": 0.1,
+      "shake": 0.28,
+      "amp": 3,
+      "push": 0
+     },
+     {
+      "t": 0.6,
+      "freeze": 0,
+      "shake": 0,
+      "amp": 0,
+      "push": 1.2,
+      "skin": "char"
+     },
+     {
+      "t": 3.5,
+      "freeze": 0,
+      "shake": 0,
+      "amp": 0,
+      "push": 0,
+      "skin": null
+     }
+    ],
+    "poses": [
+     {
+      "t": -0.32,
+      "how": "smooth",
+      "pose": {
+       "crouch": 3,
+       "fx": 11,
+       "fy": -21,
+       "bx": 9,
+       "by": -21,
+       "ffx": 7,
+       "fbx": -7
+      }
+     },
+     {
+      "t": 0.02,
+      "how": "smooth",
+      "pose": {
+       "turn": 1.15,
+       "crouch": 0,
+       "fx": -7,
+       "fy": -44,
+       "bx": 8,
+       "by": -44,
+       "ffx": -5,
+       "fbx": 6
+      }
+     },
+     {
+      "t": 0.27,
+      "how": "smooth",
+      "pose": {
+       "turn": 1.15,
+       "crouch": 0,
+       "fx": -7,
+       "fy": -44,
+       "bx": 8,
+       "by": -44,
+       "ffx": -5,
+       "fbx": 6,
+       "y": -1
+      }
+     },
+     {
+      "t": 0.32,
+      "how": "snap",
+      "pose": {
+       "turn": 1.15,
+       "crouch": 8,
+       "lean": 3,
+       "fx": -9,
+       "fy": -8,
+       "bx": 11,
+       "by": -8,
+       "ffx": -8,
+       "fbx": 9
+      }
+     },
+     {
+      "t": 0.85,
+      "how": "smooth",
+      "pose": {
+       "turn": 1.15,
+       "crouch": 7,
+       "lean": 3,
+       "fx": -9,
+       "fy": -8,
+       "bx": 11,
+       "by": -8,
+       "ffx": -8,
+       "fbx": 9
+      }
+     },
+     {
+      "t": 1.5,
+      "how": "smooth",
+      "pose": {
+       "turn": 1,
+       "crouch": 2,
+       "fx": -8,
+       "fy": -17,
+       "bx": 9,
+       "by": -17,
+       "ffx": -4,
+       "fbx": 5
+      }
+     },
+     {
+      "t": 2.4,
+      "how": "smooth",
+      "pose": {
+       "crouch": 3,
+       "fx": 11,
+       "fy": -21,
+       "bx": 9,
+       "by": -21,
+       "ffx": 7,
+       "fbx": -7
+      }
+     },
+     {
+      "t": 3.9,
+      "how": "smooth",
+      "pose": {
+       "crouch": 3,
+       "fx": 11,
+       "fy": -21,
+       "bx": 9,
+       "by": -21,
+       "ffx": 7,
+       "fbx": -7
+      }
+     }
+    ]
+   }
+  }
+ }
+}

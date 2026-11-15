@@ -1,0 +1,2437 @@
+{
+ "frames": [
+  {
+   "filename": "second_chance_freeze 0",
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 1",
+   "frame": {
+    "x": 196,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 2",
+   "frame": {
+    "x": 392,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 3",
+   "frame": {
+    "x": 588,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 4",
+   "frame": {
+    "x": 784,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 5",
+   "frame": {
+    "x": 980,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 6",
+   "frame": {
+    "x": 1176,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 7",
+   "frame": {
+    "x": 1372,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 8",
+   "frame": {
+    "x": 1568,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 9",
+   "frame": {
+    "x": 0,
+    "y": 136,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 10",
+   "frame": {
+    "x": 196,
+    "y": 136,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 11",
+   "frame": {
+    "x": 392,
+    "y": 136,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 12",
+   "frame": {
+    "x": 588,
+    "y": 136,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 13",
+   "frame": {
+    "x": 784,
+    "y": 136,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 14",
+   "frame": {
+    "x": 980,
+    "y": 136,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 15",
+   "frame": {
+    "x": 1176,
+    "y": 136,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 16",
+   "frame": {
+    "x": 1372,
+    "y": 136,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 17",
+   "frame": {
+    "x": 1568,
+    "y": 136,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 18",
+   "frame": {
+    "x": 0,
+    "y": 272,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 19",
+   "frame": {
+    "x": 196,
+    "y": 272,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 20",
+   "frame": {
+    "x": 392,
+    "y": 272,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 21",
+   "frame": {
+    "x": 588,
+    "y": 272,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 22",
+   "frame": {
+    "x": 784,
+    "y": 272,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 23",
+   "frame": {
+    "x": 980,
+    "y": 272,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 24",
+   "frame": {
+    "x": 1176,
+    "y": 272,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 25",
+   "frame": {
+    "x": 1372,
+    "y": 272,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 26",
+   "frame": {
+    "x": 1568,
+    "y": 272,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 27",
+   "frame": {
+    "x": 0,
+    "y": 408,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 28",
+   "frame": {
+    "x": 196,
+    "y": 408,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 29",
+   "frame": {
+    "x": 392,
+    "y": 408,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 30",
+   "frame": {
+    "x": 588,
+    "y": 408,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 31",
+   "frame": {
+    "x": 784,
+    "y": 408,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 32",
+   "frame": {
+    "x": 980,
+    "y": 408,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 33",
+   "frame": {
+    "x": 1176,
+    "y": 408,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 34",
+   "frame": {
+    "x": 1372,
+    "y": 408,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 35",
+   "frame": {
+    "x": 1568,
+    "y": 408,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 36",
+   "frame": {
+    "x": 0,
+    "y": 544,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 37",
+   "frame": {
+    "x": 196,
+    "y": 544,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 38",
+   "frame": {
+    "x": 392,
+    "y": 544,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 39",
+   "frame": {
+    "x": 588,
+    "y": 544,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 40",
+   "frame": {
+    "x": 784,
+    "y": 544,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 41",
+   "frame": {
+    "x": 980,
+    "y": 544,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 42",
+   "frame": {
+    "x": 1176,
+    "y": 544,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 43",
+   "frame": {
+    "x": 1372,
+    "y": 544,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 44",
+   "frame": {
+    "x": 1568,
+    "y": 544,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 45",
+   "frame": {
+    "x": 0,
+    "y": 680,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 46",
+   "frame": {
+    "x": 196,
+    "y": 680,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 47",
+   "frame": {
+    "x": 392,
+    "y": 680,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 48",
+   "frame": {
+    "x": 588,
+    "y": 680,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 49",
+   "frame": {
+    "x": 784,
+    "y": 680,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 50",
+   "frame": {
+    "x": 980,
+    "y": 680,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 51",
+   "frame": {
+    "x": 1176,
+    "y": 680,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 52",
+   "frame": {
+    "x": 1372,
+    "y": 680,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 53",
+   "frame": {
+    "x": 1568,
+    "y": 680,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 54",
+   "frame": {
+    "x": 0,
+    "y": 816,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 55",
+   "frame": {
+    "x": 196,
+    "y": 816,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 56",
+   "frame": {
+    "x": 392,
+    "y": 816,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 57",
+   "frame": {
+    "x": 588,
+    "y": 816,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 58",
+   "frame": {
+    "x": 784,
+    "y": 816,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 59",
+   "frame": {
+    "x": 980,
+    "y": 816,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 60",
+   "frame": {
+    "x": 1176,
+    "y": 816,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 61",
+   "frame": {
+    "x": 1372,
+    "y": 816,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 62",
+   "frame": {
+    "x": 1568,
+    "y": 816,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 63",
+   "frame": {
+    "x": 0,
+    "y": 952,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 64",
+   "frame": {
+    "x": 196,
+    "y": 952,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 65",
+   "frame": {
+    "x": 392,
+    "y": 952,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 66",
+   "frame": {
+    "x": 588,
+    "y": 952,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 67",
+   "frame": {
+    "x": 784,
+    "y": 952,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 68",
+   "frame": {
+    "x": 980,
+    "y": 952,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 69",
+   "frame": {
+    "x": 1176,
+    "y": 952,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 70",
+   "frame": {
+    "x": 1372,
+    "y": 952,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 71",
+   "frame": {
+    "x": 1568,
+    "y": 952,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 72",
+   "frame": {
+    "x": 0,
+    "y": 1088,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 73",
+   "frame": {
+    "x": 196,
+    "y": 1088,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 74",
+   "frame": {
+    "x": 392,
+    "y": 1088,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 75",
+   "frame": {
+    "x": 588,
+    "y": 1088,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 76",
+   "frame": {
+    "x": 784,
+    "y": 1088,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 77",
+   "frame": {
+    "x": 980,
+    "y": 1088,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 78",
+   "frame": {
+    "x": 1176,
+    "y": 1088,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 79",
+   "frame": {
+    "x": 1372,
+    "y": 1088,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 80",
+   "frame": {
+    "x": 1568,
+    "y": 1088,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 81",
+   "frame": {
+    "x": 0,
+    "y": 1224,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 82",
+   "frame": {
+    "x": 196,
+    "y": 1224,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 83",
+   "frame": {
+    "x": 392,
+    "y": 1224,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 84",
+   "frame": {
+    "x": 588,
+    "y": 1224,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 85",
+   "frame": {
+    "x": 784,
+    "y": 1224,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 86",
+   "frame": {
+    "x": 980,
+    "y": 1224,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 87",
+   "frame": {
+    "x": 1176,
+    "y": 1224,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 88",
+   "frame": {
+    "x": 1372,
+    "y": 1224,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 89",
+   "frame": {
+    "x": 1568,
+    "y": 1224,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 90",
+   "frame": {
+    "x": 0,
+    "y": 1360,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 91",
+   "frame": {
+    "x": 196,
+    "y": 1360,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 92",
+   "frame": {
+    "x": 392,
+    "y": 1360,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 93",
+   "frame": {
+    "x": 588,
+    "y": 1360,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 94",
+   "frame": {
+    "x": 784,
+    "y": 1360,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 95",
+   "frame": {
+    "x": 980,
+    "y": 1360,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 96",
+   "frame": {
+    "x": 1176,
+    "y": 1360,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 97",
+   "frame": {
+    "x": 1372,
+    "y": 1360,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 98",
+   "frame": {
+    "x": 1568,
+    "y": 1360,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 99",
+   "frame": {
+    "x": 0,
+    "y": 1496,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 100",
+   "frame": {
+    "x": 196,
+    "y": 1496,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 101",
+   "frame": {
+    "x": 392,
+    "y": 1496,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 102",
+   "frame": {
+    "x": 588,
+    "y": 1496,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 103",
+   "frame": {
+    "x": 784,
+    "y": 1496,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 104",
+   "frame": {
+    "x": 980,
+    "y": 1496,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 105",
+   "frame": {
+    "x": 1176,
+    "y": 1496,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 106",
+   "frame": {
+    "x": 1372,
+    "y": 1496,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 107",
+   "frame": {
+    "x": 1568,
+    "y": 1496,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  },
+  {
+   "filename": "second_chance_freeze 108",
+   "frame": {
+    "x": 0,
+    "y": 1632,
+    "w": 196,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 136
+   },
+   "duration": 33
+  }
+ ],
+ "meta": {
+  "app": "https://github.com/patch-gg/pixelfx",
+  "version": "1",
+  "image": "second_chance_freeze.png",
+  "format": "RGBA8888",
+  "size": {
+   "w": 1764,
+   "h": 1768
+  },
+  "scale": "1",
+  "frameTags": [
+   {
+    "name": "second_chance_freeze",
+    "from": 0,
+    "to": 108,
+    "direction": "forward"
+   }
+  ],
+  "pixelfx": {
+   "id": "arcane/time-stop",
+   "name": "Time stop",
+   "fps": 30,
+   "loop": false,
+   "frames": 109,
+   "frameSize": [
+    196,
+    136
+   ],
+   "pivot": [
+    98,
+    118
+   ],
+   "columns": 9
+  }
+ }
+}

@@ -1,0 +1,39 @@
+[gd_scene format=3 uid="uid://cn6b5npky2ggr"]
+
+[ext_resource type="Script" path="res://src/enemies/VoidBeamProjectile.gd" id="1_script"]
+[ext_resource type="SpriteFrames" path="res://assets/vfx/bosses/guardian_beam/guardian_beam.tres" id="2_frames"]
+[ext_resource type="Script" path="res://src/combat/Hitbox.gd" id="3_hitbox"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_proj"]
+radius = 6.0
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_hit"]
+radius = 6.0
+height = 28.0
+
+[node name="VoidBeamProjectile" type="Area2D"]
+collision_layer = 0
+collision_mask = 1
+script = ExtResource("1_script")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("CircleShape2D_proj")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+scale = Vector2(0.25, 0.25)
+sprite_frames = ExtResource("2_frames")
+autoplay = "default"
+
+[node name="Hitbox" type="Area2D" parent="."]
+collision_layer = 4
+collision_mask = 2
+script = ExtResource("3_hitbox")
+faction = 1
+damage = 12
+knockback_force = 240.0
+is_parriable = true
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Hitbox"]
+rotation = 1.5708
+shape = SubResource("CapsuleShape2D_hit")
+debug_color = Color(0.85, 0.2, 0.8, 0.4)

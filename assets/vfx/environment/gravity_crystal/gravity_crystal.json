@@ -1,0 +1,2019 @@
+{
+ "frames": [
+  {
+   "filename": "gravity_crystal 0",
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 1",
+   "frame": {
+    "x": 96,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 2",
+   "frame": {
+    "x": 192,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 3",
+   "frame": {
+    "x": 288,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 4",
+   "frame": {
+    "x": 384,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 5",
+   "frame": {
+    "x": 480,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 6",
+   "frame": {
+    "x": 576,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 7",
+   "frame": {
+    "x": 672,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 8",
+   "frame": {
+    "x": 768,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 9",
+   "frame": {
+    "x": 864,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 10",
+   "frame": {
+    "x": 0,
+    "y": 100,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 11",
+   "frame": {
+    "x": 96,
+    "y": 100,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 12",
+   "frame": {
+    "x": 192,
+    "y": 100,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 13",
+   "frame": {
+    "x": 288,
+    "y": 100,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 14",
+   "frame": {
+    "x": 384,
+    "y": 100,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 15",
+   "frame": {
+    "x": 480,
+    "y": 100,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 16",
+   "frame": {
+    "x": 576,
+    "y": 100,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 17",
+   "frame": {
+    "x": 672,
+    "y": 100,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 18",
+   "frame": {
+    "x": 768,
+    "y": 100,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 19",
+   "frame": {
+    "x": 864,
+    "y": 100,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 20",
+   "frame": {
+    "x": 0,
+    "y": 200,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 21",
+   "frame": {
+    "x": 96,
+    "y": 200,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 22",
+   "frame": {
+    "x": 192,
+    "y": 200,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 23",
+   "frame": {
+    "x": 288,
+    "y": 200,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 24",
+   "frame": {
+    "x": 384,
+    "y": 200,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 25",
+   "frame": {
+    "x": 480,
+    "y": 200,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 26",
+   "frame": {
+    "x": 576,
+    "y": 200,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 27",
+   "frame": {
+    "x": 672,
+    "y": 200,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 28",
+   "frame": {
+    "x": 768,
+    "y": 200,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 29",
+   "frame": {
+    "x": 864,
+    "y": 200,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 30",
+   "frame": {
+    "x": 0,
+    "y": 300,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 31",
+   "frame": {
+    "x": 96,
+    "y": 300,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 32",
+   "frame": {
+    "x": 192,
+    "y": 300,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 33",
+   "frame": {
+    "x": 288,
+    "y": 300,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 34",
+   "frame": {
+    "x": 384,
+    "y": 300,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 35",
+   "frame": {
+    "x": 480,
+    "y": 300,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 36",
+   "frame": {
+    "x": 576,
+    "y": 300,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 37",
+   "frame": {
+    "x": 672,
+    "y": 300,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 38",
+   "frame": {
+    "x": 768,
+    "y": 300,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 39",
+   "frame": {
+    "x": 864,
+    "y": 300,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 40",
+   "frame": {
+    "x": 0,
+    "y": 400,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 41",
+   "frame": {
+    "x": 96,
+    "y": 400,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 42",
+   "frame": {
+    "x": 192,
+    "y": 400,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 43",
+   "frame": {
+    "x": 288,
+    "y": 400,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 44",
+   "frame": {
+    "x": 384,
+    "y": 400,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 45",
+   "frame": {
+    "x": 480,
+    "y": 400,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 46",
+   "frame": {
+    "x": 576,
+    "y": 400,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 47",
+   "frame": {
+    "x": 672,
+    "y": 400,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 48",
+   "frame": {
+    "x": 768,
+    "y": 400,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 49",
+   "frame": {
+    "x": 864,
+    "y": 400,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 50",
+   "frame": {
+    "x": 0,
+    "y": 500,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 51",
+   "frame": {
+    "x": 96,
+    "y": 500,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 52",
+   "frame": {
+    "x": 192,
+    "y": 500,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 53",
+   "frame": {
+    "x": 288,
+    "y": 500,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 54",
+   "frame": {
+    "x": 384,
+    "y": 500,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 55",
+   "frame": {
+    "x": 480,
+    "y": 500,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 56",
+   "frame": {
+    "x": 576,
+    "y": 500,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 57",
+   "frame": {
+    "x": 672,
+    "y": 500,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 58",
+   "frame": {
+    "x": 768,
+    "y": 500,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 59",
+   "frame": {
+    "x": 864,
+    "y": 500,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 60",
+   "frame": {
+    "x": 0,
+    "y": 600,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 61",
+   "frame": {
+    "x": 96,
+    "y": 600,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 62",
+   "frame": {
+    "x": 192,
+    "y": 600,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 63",
+   "frame": {
+    "x": 288,
+    "y": 600,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 64",
+   "frame": {
+    "x": 384,
+    "y": 600,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 65",
+   "frame": {
+    "x": 480,
+    "y": 600,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 66",
+   "frame": {
+    "x": 576,
+    "y": 600,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 67",
+   "frame": {
+    "x": 672,
+    "y": 600,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 68",
+   "frame": {
+    "x": 768,
+    "y": 600,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 69",
+   "frame": {
+    "x": 864,
+    "y": 600,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 70",
+   "frame": {
+    "x": 0,
+    "y": 700,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 71",
+   "frame": {
+    "x": 96,
+    "y": 700,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 72",
+   "frame": {
+    "x": 192,
+    "y": 700,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 73",
+   "frame": {
+    "x": 288,
+    "y": 700,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 74",
+   "frame": {
+    "x": 384,
+    "y": 700,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 75",
+   "frame": {
+    "x": 480,
+    "y": 700,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 76",
+   "frame": {
+    "x": 576,
+    "y": 700,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 77",
+   "frame": {
+    "x": 672,
+    "y": 700,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 78",
+   "frame": {
+    "x": 768,
+    "y": 700,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 79",
+   "frame": {
+    "x": 864,
+    "y": 700,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 80",
+   "frame": {
+    "x": 0,
+    "y": 800,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 81",
+   "frame": {
+    "x": 96,
+    "y": 800,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 82",
+   "frame": {
+    "x": 192,
+    "y": 800,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 83",
+   "frame": {
+    "x": 288,
+    "y": 800,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 84",
+   "frame": {
+    "x": 384,
+    "y": 800,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 85",
+   "frame": {
+    "x": 480,
+    "y": 800,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 86",
+   "frame": {
+    "x": 576,
+    "y": 800,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 87",
+   "frame": {
+    "x": 672,
+    "y": 800,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 88",
+   "frame": {
+    "x": 768,
+    "y": 800,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gravity_crystal 89",
+   "frame": {
+    "x": 864,
+    "y": 800,
+    "w": 96,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 100
+   },
+   "duration": 33
+  }
+ ],
+ "meta": {
+  "app": "https://github.com/patch-gg/pixelfx",
+  "version": "1",
+  "image": "gravity_crystal.png",
+  "format": "RGBA8888",
+  "size": {
+   "w": 960,
+   "h": 900
+  },
+  "scale": "1",
+  "frameTags": [
+   {
+    "name": "gravity_crystal",
+    "from": 0,
+    "to": 89,
+    "direction": "forward"
+   }
+  ],
+  "pixelfx": {
+   "id": "ice/ice-crystal",
+   "name": "Ice crystal",
+   "fps": 30,
+   "loop": true,
+   "frames": 90,
+   "frameSize": [
+    96,
+    100
+   ],
+   "pivot": [
+    48,
+    92
+   ],
+   "columns": 10
+  }
+ }
+}

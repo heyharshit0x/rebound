@@ -1,0 +1,1294 @@
+[
+  {
+    "name": "sword_slash",
+    "category": "combat",
+    "pixelfx_id": "melee/sword-slash",
+    "fps": 30,
+    "loop": false,
+    "frames": 24,
+    "frame_size": [
+      136,
+      104
+    ],
+    "pivot": [
+      44,
+      92
+    ],
+    "png": "res://assets/vfx/combat/sword_slash/sword_slash.png",
+    "tres": "res://assets/vfx/combat/sword_slash/sword_slash.tres",
+    "json": "res://assets/vfx/combat/sword_slash/sword_slash.json"
+  },
+  {
+    "name": "double_slash",
+    "category": "combat",
+    "pixelfx_id": "melee/double-slash",
+    "fps": 30,
+    "loop": false,
+    "frames": 25,
+    "frame_size": [
+      164,
+      108
+    ],
+    "pivot": [
+      44,
+      92
+    ],
+    "png": "res://assets/vfx/combat/double_slash/double_slash.png",
+    "tres": "res://assets/vfx/combat/double_slash/double_slash.tres",
+    "json": "res://assets/vfx/combat/double_slash/double_slash.json"
+  },
+  {
+    "name": "spin_slash",
+    "category": "combat",
+    "pixelfx_id": "melee/spin-slash",
+    "fps": 30,
+    "loop": false,
+    "frames": 25,
+    "frame_size": [
+      208,
+      104
+    ],
+    "pivot": [
+      104,
+      84
+    ],
+    "png": "res://assets/vfx/combat/spin_slash/spin_slash.png",
+    "tres": "res://assets/vfx/combat/spin_slash/spin_slash.tres",
+    "json": "res://assets/vfx/combat/spin_slash/spin_slash.json"
+  },
+  {
+    "name": "thrust",
+    "category": "combat",
+    "pixelfx_id": "melee/thrust",
+    "fps": 30,
+    "loop": false,
+    "frames": 24,
+    "frame_size": [
+      196,
+      76
+    ],
+    "pivot": [
+      34,
+      62
+    ],
+    "png": "res://assets/vfx/combat/thrust/thrust.png",
+    "tres": "res://assets/vfx/combat/thrust/thrust.tres",
+    "json": "res://assets/vfx/combat/thrust/thrust.json"
+  },
+  {
+    "name": "hammer_smash",
+    "category": "combat",
+    "pixelfx_id": "melee/hammer-smash",
+    "fps": 30,
+    "loop": false,
+    "frames": 61,
+    "frame_size": [
+      208,
+      112
+    ],
+    "pivot": [
+      80,
+      92
+    ],
+    "png": "res://assets/vfx/combat/hammer_smash/hammer_smash.png",
+    "tres": "res://assets/vfx/combat/hammer_smash/hammer_smash.tres",
+    "json": "res://assets/vfx/combat/hammer_smash/hammer_smash.json"
+  },
+  {
+    "name": "heavy_cleave",
+    "category": "combat",
+    "pixelfx_id": "melee/heavy-cleave",
+    "fps": 30,
+    "loop": false,
+    "frames": 58,
+    "frame_size": [
+      208,
+      116
+    ],
+    "pivot": [
+      68,
+      96
+    ],
+    "png": "res://assets/vfx/combat/heavy_cleave/heavy_cleave.png",
+    "tres": "res://assets/vfx/combat/heavy_cleave/heavy_cleave.tres",
+    "json": "res://assets/vfx/combat/heavy_cleave/heavy_cleave.json"
+  },
+  {
+    "name": "sword_combo",
+    "category": "combat",
+    "pixelfx_id": "moves/sword-combo",
+    "fps": 30,
+    "loop": false,
+    "frames": 90,
+    "frame_size": [
+      264,
+      150
+    ],
+    "pivot": [
+      72,
+      130
+    ],
+    "png": "res://assets/vfx/combat/sword_combo/sword_combo.png",
+    "tres": "res://assets/vfx/combat/sword_combo/sword_combo.tres",
+    "json": "res://assets/vfx/combat/sword_combo/sword_combo.json"
+  },
+  {
+    "name": "dash_trail",
+    "category": "player",
+    "pixelfx_id": "status/haste",
+    "fps": 30,
+    "loop": true,
+    "frames": 36,
+    "frame_size": [
+      100,
+      56
+    ],
+    "pivot": [
+      64,
+      48
+    ],
+    "png": "res://assets/vfx/player/dash_trail/dash_trail.png",
+    "tres": "res://assets/vfx/player/dash_trail/dash_trail.tres",
+    "json": "res://assets/vfx/player/dash_trail/dash_trail.json"
+  },
+  {
+    "name": "ground_slam",
+    "category": "player",
+    "pixelfx_id": "impacts/ground-slam",
+    "fps": 30,
+    "loop": false,
+    "frames": 97,
+    "frame_size": [
+      288,
+      208
+    ],
+    "pivot": [
+      144,
+      164
+    ],
+    "png": "res://assets/vfx/player/ground_slam/ground_slam.png",
+    "tres": "res://assets/vfx/player/ground_slam/ground_slam.tres",
+    "json": "res://assets/vfx/player/ground_slam/ground_slam.json"
+  },
+  {
+    "name": "parry_clash",
+    "category": "player",
+    "pixelfx_id": "impacts/parry",
+    "fps": 30,
+    "loop": false,
+    "frames": 31,
+    "frame_size": [
+      200,
+      112
+    ],
+    "pivot": [
+      100,
+      96
+    ],
+    "png": "res://assets/vfx/player/parry_clash/parry_clash.png",
+    "tres": "res://assets/vfx/player/parry_clash/parry_clash.tres",
+    "json": "res://assets/vfx/player/parry_clash/parry_clash.json"
+  },
+  {
+    "name": "shield_block",
+    "category": "player",
+    "pixelfx_id": "impacts/shield-block",
+    "fps": 30,
+    "loop": false,
+    "frames": 34,
+    "frame_size": [
+      148,
+      104
+    ],
+    "pivot": [
+      40,
+      88
+    ],
+    "png": "res://assets/vfx/player/shield_block/shield_block.png",
+    "tres": "res://assets/vfx/player/shield_block/shield_block.tres",
+    "json": "res://assets/vfx/player/shield_block/shield_block.json"
+  },
+  {
+    "name": "rebound_charge",
+    "category": "player",
+    "pixelfx_id": "arcane/spell-charge",
+    "fps": 30,
+    "loop": true,
+    "frames": 48,
+    "frame_size": [
+      120,
+      86
+    ],
+    "pivot": [
+      44,
+      80
+    ],
+    "png": "res://assets/vfx/player/rebound_charge/rebound_charge.png",
+    "tres": "res://assets/vfx/player/rebound_charge/rebound_charge.tres",
+    "json": "res://assets/vfx/player/rebound_charge/rebound_charge.json"
+  },
+  {
+    "name": "second_chance_freeze",
+    "category": "player",
+    "pixelfx_id": "arcane/time-stop",
+    "fps": 30,
+    "loop": false,
+    "frames": 109,
+    "frame_size": [
+      196,
+      136
+    ],
+    "pivot": [
+      98,
+      118
+    ],
+    "png": "res://assets/vfx/player/second_chance_freeze/second_chance_freeze.png",
+    "tres": "res://assets/vfx/player/second_chance_freeze/second_chance_freeze.tres",
+    "json": "res://assets/vfx/player/second_chance_freeze/second_chance_freeze.json"
+  },
+  {
+    "name": "ghost_rewind",
+    "category": "player",
+    "pixelfx_id": "spawn/soul-rise",
+    "fps": 30,
+    "loop": false,
+    "frames": 97,
+    "frame_size": [
+      96,
+      140
+    ],
+    "pivot": [
+      48,
+      126
+    ],
+    "png": "res://assets/vfx/player/ghost_rewind/ghost_rewind.png",
+    "tres": "res://assets/vfx/player/ghost_rewind/ghost_rewind.tres",
+    "json": "res://assets/vfx/player/ghost_rewind/ghost_rewind.json"
+  },
+  {
+    "name": "hit_spark",
+    "category": "impacts",
+    "pixelfx_id": "impacts/hit-spark",
+    "fps": 30,
+    "loop": false,
+    "frames": 16,
+    "frame_size": [
+      136,
+      80
+    ],
+    "pivot": [
+      44,
+      64
+    ],
+    "png": "res://assets/vfx/impacts/hit_spark/hit_spark.png",
+    "tres": "res://assets/vfx/impacts/hit_spark/hit_spark.tres",
+    "json": "res://assets/vfx/impacts/hit_spark/hit_spark.json"
+  },
+  {
+    "name": "hit_flash",
+    "category": "impacts",
+    "pixelfx_id": "impacts/hit-flash",
+    "fps": 30,
+    "loop": false,
+    "frames": 16,
+    "frame_size": [
+      80,
+      64
+    ],
+    "pivot": [
+      40,
+      54
+    ],
+    "png": "res://assets/vfx/impacts/hit_flash/hit_flash.png",
+    "tres": "res://assets/vfx/impacts/hit_flash/hit_flash.tres",
+    "json": "res://assets/vfx/impacts/hit_flash/hit_flash.json"
+  },
+  {
+    "name": "crit_hit",
+    "category": "impacts",
+    "pixelfx_id": "impacts/crit-hit",
+    "fps": 30,
+    "loop": false,
+    "frames": 28,
+    "frame_size": [
+      216,
+      136
+    ],
+    "pivot": [
+      84,
+      106
+    ],
+    "png": "res://assets/vfx/impacts/crit_hit/crit_hit.png",
+    "tres": "res://assets/vfx/impacts/crit_hit/crit_hit.tres",
+    "json": "res://assets/vfx/impacts/crit_hit/crit_hit.json"
+  },
+  {
+    "name": "heavy_landing",
+    "category": "impacts",
+    "pixelfx_id": "impacts/heavy-landing",
+    "fps": 30,
+    "loop": false,
+    "frames": 49,
+    "frame_size": [
+      176,
+      80
+    ],
+    "pivot": [
+      88,
+      60
+    ],
+    "png": "res://assets/vfx/impacts/heavy_landing/heavy_landing.png",
+    "tres": "res://assets/vfx/impacts/heavy_landing/heavy_landing.tres",
+    "json": "res://assets/vfx/impacts/heavy_landing/heavy_landing.json"
+  },
+  {
+    "name": "rebound_ricochet",
+    "category": "impacts",
+    "pixelfx_id": "impacts/ricochet",
+    "fps": 30,
+    "loop": false,
+    "frames": 34,
+    "frame_size": [
+      232,
+      84
+    ],
+    "pivot": [
+      64,
+      60
+    ],
+    "png": "res://assets/vfx/impacts/rebound_ricochet/rebound_ricochet.png",
+    "tres": "res://assets/vfx/impacts/rebound_ricochet/rebound_ricochet.tres",
+    "json": "res://assets/vfx/impacts/rebound_ricochet/rebound_ricochet.json"
+  },
+  {
+    "name": "dummy_hit",
+    "category": "impacts",
+    "pixelfx_id": "impacts/blunt-hit",
+    "fps": 30,
+    "loop": false,
+    "frames": 28,
+    "frame_size": [
+      128,
+      88
+    ],
+    "pivot": [
+      64,
+      72
+    ],
+    "png": "res://assets/vfx/impacts/dummy_hit/dummy_hit.png",
+    "tres": "res://assets/vfx/impacts/dummy_hit/dummy_hit.tres",
+    "json": "res://assets/vfx/impacts/dummy_hit/dummy_hit.json"
+  },
+  {
+    "name": "impact_frame",
+    "category": "impacts",
+    "pixelfx_id": "impacts/impact-frame",
+    "fps": 30,
+    "loop": false,
+    "frames": 10,
+    "frame_size": [
+      320,
+      180
+    ],
+    "pivot": [
+      160,
+      90
+    ],
+    "png": "res://assets/vfx/impacts/impact_frame/impact_frame.png",
+    "tres": "res://assets/vfx/impacts/impact_frame/impact_frame.tres",
+    "json": "res://assets/vfx/impacts/impact_frame/impact_frame.json"
+  },
+  {
+    "name": "wisp",
+    "category": "enemies",
+    "pixelfx_id": "critters/wisp",
+    "fps": 30,
+    "loop": true,
+    "frames": 96,
+    "frame_size": [
+      128,
+      104
+    ],
+    "pivot": [
+      64,
+      96
+    ],
+    "png": "res://assets/vfx/enemies/wisp/wisp.png",
+    "tres": "res://assets/vfx/enemies/wisp/wisp.tres",
+    "json": "res://assets/vfx/enemies/wisp/wisp.json"
+  },
+  {
+    "name": "slime",
+    "category": "enemies",
+    "pixelfx_id": "critters/slime",
+    "fps": 30,
+    "loop": true,
+    "frames": 54,
+    "frame_size": [
+      112,
+      88
+    ],
+    "pivot": [
+      56,
+      72
+    ],
+    "png": "res://assets/vfx/enemies/slime/slime.png",
+    "tres": "res://assets/vfx/enemies/slime/slime.tres",
+    "json": "res://assets/vfx/enemies/slime/slime.json"
+  },
+  {
+    "name": "void_eye",
+    "category": "enemies",
+    "pixelfx_id": "critters/eyeball",
+    "fps": 30,
+    "loop": true,
+    "frames": 96,
+    "frame_size": [
+      96,
+      108
+    ],
+    "pivot": [
+      48,
+      100
+    ],
+    "png": "res://assets/vfx/enemies/void_eye/void_eye.png",
+    "tres": "res://assets/vfx/enemies/void_eye/void_eye.tres",
+    "json": "res://assets/vfx/enemies/void_eye/void_eye.json"
+  },
+  {
+    "name": "bat",
+    "category": "enemies",
+    "pixelfx_id": "critters/bat",
+    "fps": 30,
+    "loop": true,
+    "frames": 72,
+    "frame_size": [
+      112,
+      80
+    ],
+    "pivot": [
+      56,
+      40
+    ],
+    "png": "res://assets/vfx/enemies/bat/bat.png",
+    "tres": "res://assets/vfx/enemies/bat/bat.tres",
+    "json": "res://assets/vfx/enemies/bat/bat.json"
+  },
+  {
+    "name": "flying_skull",
+    "category": "enemies",
+    "pixelfx_id": "critters/flying-skull",
+    "fps": 30,
+    "loop": true,
+    "frames": 72,
+    "frame_size": [
+      96,
+      132
+    ],
+    "pivot": [
+      48,
+      120
+    ],
+    "png": "res://assets/vfx/enemies/flying_skull/flying_skull.png",
+    "tres": "res://assets/vfx/enemies/flying_skull/flying_skull.tres",
+    "json": "res://assets/vfx/enemies/flying_skull/flying_skull.json"
+  },
+  {
+    "name": "enemy_death_poof",
+    "category": "enemies",
+    "pixelfx_id": "spawn/poof",
+    "fps": 30,
+    "loop": false,
+    "frames": 49,
+    "frame_size": [
+      112,
+      92
+    ],
+    "pivot": [
+      56,
+      80
+    ],
+    "png": "res://assets/vfx/enemies/enemy_death_poof/enemy_death_poof.png",
+    "tres": "res://assets/vfx/enemies/enemy_death_poof/enemy_death_poof.tres",
+    "json": "res://assets/vfx/enemies/enemy_death_poof/enemy_death_poof.json"
+  },
+  {
+    "name": "disintegrate",
+    "category": "enemies",
+    "pixelfx_id": "spawn/disintegrate",
+    "fps": 30,
+    "loop": false,
+    "frames": 103,
+    "frame_size": [
+      176,
+      100
+    ],
+    "pivot": [
+      48,
+      86
+    ],
+    "png": "res://assets/vfx/enemies/disintegrate/disintegrate.png",
+    "tres": "res://assets/vfx/enemies/disintegrate/disintegrate.tres",
+    "json": "res://assets/vfx/enemies/disintegrate/disintegrate.json"
+  },
+  {
+    "name": "boss_death_burn",
+    "category": "enemies",
+    "pixelfx_id": "spawn/dissolve-burn",
+    "fps": 30,
+    "loop": false,
+    "frames": 109,
+    "frame_size": [
+      96,
+      112
+    ],
+    "pivot": [
+      48,
+      100
+    ],
+    "png": "res://assets/vfx/enemies/boss_death_burn/boss_death_burn.png",
+    "tres": "res://assets/vfx/enemies/boss_death_burn/boss_death_burn.tres",
+    "json": "res://assets/vfx/enemies/boss_death_burn/boss_death_burn.json"
+  },
+  {
+    "name": "flame_pillar",
+    "category": "environment",
+    "pixelfx_id": "fire/flame-pillar",
+    "fps": 30,
+    "loop": false,
+    "frames": 151,
+    "frame_size": [
+      184,
+      256
+    ],
+    "pivot": [
+      92,
+      232
+    ],
+    "png": "res://assets/vfx/environment/flame_pillar/flame_pillar.png",
+    "tres": "res://assets/vfx/environment/flame_pillar/flame_pillar.tres",
+    "json": "res://assets/vfx/environment/flame_pillar/flame_pillar.json"
+  },
+  {
+    "name": "barrel_explosion",
+    "category": "environment",
+    "pixelfx_id": "explosions/barrel-explosion",
+    "fps": 30,
+    "loop": false,
+    "frames": 157,
+    "frame_size": [
+      300,
+      240
+    ],
+    "pivot": [
+      150,
+      204
+    ],
+    "png": "res://assets/vfx/environment/barrel_explosion/barrel_explosion.png",
+    "tres": "res://assets/vfx/environment/barrel_explosion/barrel_explosion.tres",
+    "json": "res://assets/vfx/environment/barrel_explosion/barrel_explosion.json"
+  },
+  {
+    "name": "small_explosion",
+    "category": "environment",
+    "pixelfx_id": "explosions/small-explosion",
+    "fps": 30,
+    "loop": false,
+    "frames": 163,
+    "frame_size": [
+      300,
+      240
+    ],
+    "pivot": [
+      150,
+      196
+    ],
+    "png": "res://assets/vfx/environment/small_explosion/small_explosion.png",
+    "tres": "res://assets/vfx/environment/small_explosion/small_explosion.tres",
+    "json": "res://assets/vfx/environment/small_explosion/small_explosion.json"
+  },
+  {
+    "name": "fire_tornado",
+    "category": "environment",
+    "pixelfx_id": "fire/fire-tornado",
+    "fps": 30,
+    "loop": true,
+    "frames": 60,
+    "frame_size": [
+      120,
+      152
+    ],
+    "pivot": [
+      60,
+      136
+    ],
+    "png": "res://assets/vfx/environment/fire_tornado/fire_tornado.png",
+    "tres": "res://assets/vfx/environment/fire_tornado/fire_tornado.tres",
+    "json": "res://assets/vfx/environment/fire_tornado/fire_tornado.json"
+  },
+  {
+    "name": "fire_ring",
+    "category": "environment",
+    "pixelfx_id": "fire/fire-ring",
+    "fps": 30,
+    "loop": false,
+    "frames": 118,
+    "frame_size": [
+      224,
+      128
+    ],
+    "pivot": [
+      112,
+      92
+    ],
+    "png": "res://assets/vfx/environment/fire_ring/fire_ring.png",
+    "tres": "res://assets/vfx/environment/fire_ring/fire_ring.tres",
+    "json": "res://assets/vfx/environment/fire_ring/fire_ring.json"
+  },
+  {
+    "name": "torch",
+    "category": "environment",
+    "pixelfx_id": "fire/torch",
+    "fps": 30,
+    "loop": true,
+    "frames": 60,
+    "frame_size": [
+      72,
+      120
+    ],
+    "pivot": [
+      36,
+      94
+    ],
+    "png": "res://assets/vfx/environment/torch/torch.png",
+    "tres": "res://assets/vfx/environment/torch/torch.tres",
+    "json": "res://assets/vfx/environment/torch/torch.json"
+  },
+  {
+    "name": "brazier",
+    "category": "environment",
+    "pixelfx_id": "fire/brazier",
+    "fps": 30,
+    "loop": true,
+    "frames": 90,
+    "frame_size": [
+      112,
+      148
+    ],
+    "pivot": [
+      56,
+      136
+    ],
+    "png": "res://assets/vfx/environment/brazier/brazier.png",
+    "tres": "res://assets/vfx/environment/brazier/brazier.tres",
+    "json": "res://assets/vfx/environment/brazier/brazier.json"
+  },
+  {
+    "name": "gravity_crystal",
+    "category": "environment",
+    "pixelfx_id": "ice/ice-crystal",
+    "fps": 30,
+    "loop": true,
+    "frames": 90,
+    "frame_size": [
+      96,
+      100
+    ],
+    "pivot": [
+      48,
+      92
+    ],
+    "png": "res://assets/vfx/environment/gravity_crystal/gravity_crystal.png",
+    "tres": "res://assets/vfx/environment/gravity_crystal/gravity_crystal.tres",
+    "json": "res://assets/vfx/environment/gravity_crystal/gravity_crystal.json"
+  },
+  {
+    "name": "gravity_lift",
+    "category": "environment",
+    "pixelfx_id": "scifi/tractor-beam",
+    "fps": 30,
+    "loop": true,
+    "frames": 90,
+    "frame_size": [
+      120,
+      132
+    ],
+    "pivot": [
+      60,
+      114
+    ],
+    "png": "res://assets/vfx/environment/gravity_lift/gravity_lift.png",
+    "tres": "res://assets/vfx/environment/gravity_lift/gravity_lift.tres",
+    "json": "res://assets/vfx/environment/gravity_lift/gravity_lift.json"
+  },
+  {
+    "name": "force_field",
+    "category": "environment",
+    "pixelfx_id": "scifi/force-field",
+    "fps": 30,
+    "loop": true,
+    "frames": 72,
+    "frame_size": [
+      184,
+      104
+    ],
+    "pivot": [
+      76,
+      84
+    ],
+    "png": "res://assets/vfx/environment/force_field/force_field.png",
+    "tres": "res://assets/vfx/environment/force_field/force_field.tres",
+    "json": "res://assets/vfx/environment/force_field/force_field.json"
+  },
+  {
+    "name": "spark_arc",
+    "category": "environment",
+    "pixelfx_id": "lightning/spark-arc",
+    "fps": 30,
+    "loop": true,
+    "frames": 60,
+    "frame_size": [
+      124,
+      120
+    ],
+    "pivot": [
+      62,
+      108
+    ],
+    "png": "res://assets/vfx/environment/spark_arc/spark_arc.png",
+    "tres": "res://assets/vfx/environment/spark_arc/spark_arc.tres",
+    "json": "res://assets/vfx/environment/spark_arc/spark_arc.json"
+  },
+  {
+    "name": "dimensional_tornado",
+    "category": "environment",
+    "pixelfx_id": "nature/tornado",
+    "fps": 30,
+    "loop": true,
+    "frames": 60,
+    "frame_size": [
+      196,
+      168
+    ],
+    "pivot": [
+      98,
+      152
+    ],
+    "png": "res://assets/vfx/environment/dimensional_tornado/dimensional_tornado.png",
+    "tres": "res://assets/vfx/environment/dimensional_tornado/dimensional_tornado.tres",
+    "json": "res://assets/vfx/environment/dimensional_tornado/dimensional_tornado.json"
+  },
+  {
+    "name": "void_portal",
+    "category": "environment",
+    "pixelfx_id": "arcane/portal",
+    "fps": 30,
+    "loop": true,
+    "frames": 72,
+    "frame_size": [
+      152,
+      116
+    ],
+    "pivot": [
+      76,
+      106
+    ],
+    "png": "res://assets/vfx/environment/void_portal/void_portal.png",
+    "tres": "res://assets/vfx/environment/void_portal/void_portal.tres",
+    "json": "res://assets/vfx/environment/void_portal/void_portal.json"
+  },
+  {
+    "name": "rift_portal",
+    "category": "environment",
+    "pixelfx_id": "spawn/spawn-portal",
+    "fps": 30,
+    "loop": false,
+    "frames": 115,
+    "frame_size": [
+      208,
+      150
+    ],
+    "pivot": [
+      104,
+      122
+    ],
+    "png": "res://assets/vfx/environment/rift_portal/rift_portal.png",
+    "tres": "res://assets/vfx/environment/rift_portal/rift_portal.tres",
+    "json": "res://assets/vfx/environment/rift_portal/rift_portal.json"
+  },
+  {
+    "name": "void_singularity",
+    "category": "environment",
+    "pixelfx_id": "shadow/void-orb",
+    "fps": 30,
+    "loop": true,
+    "frames": 96,
+    "frame_size": [
+      168,
+      160
+    ],
+    "pivot": [
+      84,
+      150
+    ],
+    "png": "res://assets/vfx/environment/void_singularity/void_singularity.png",
+    "tres": "res://assets/vfx/environment/void_singularity/void_singularity.tres",
+    "json": "res://assets/vfx/environment/void_singularity/void_singularity.json"
+  },
+  {
+    "name": "god_rays",
+    "category": "environment",
+    "pixelfx_id": "weather/god-rays",
+    "fps": 30,
+    "loop": true,
+    "frames": 300,
+    "frame_size": [
+      320,
+      180
+    ],
+    "pivot": [
+      160,
+      170
+    ],
+    "png": "res://assets/vfx/environment/god_rays/god_rays.png",
+    "tres": "res://assets/vfx/environment/god_rays/god_rays.tres",
+    "json": "res://assets/vfx/environment/god_rays/god_rays.json"
+  },
+  {
+    "name": "boss_fireball",
+    "category": "bosses",
+    "pixelfx_id": "fire/fireball",
+    "fps": 30,
+    "loop": true,
+    "frames": 36,
+    "frame_size": [
+      136,
+      56
+    ],
+    "pivot": [
+      112,
+      28
+    ],
+    "png": "res://assets/vfx/bosses/boss_fireball/boss_fireball.png",
+    "tres": "res://assets/vfx/bosses/boss_fireball/boss_fireball.tres",
+    "json": "res://assets/vfx/bosses/boss_fireball/boss_fireball.json"
+  },
+  {
+    "name": "boss_fire_breath",
+    "category": "bosses",
+    "pixelfx_id": "fire/fire-breath",
+    "fps": 30,
+    "loop": true,
+    "frames": 45,
+    "frame_size": [
+      160,
+      116
+    ],
+    "pivot": [
+      12,
+      72
+    ],
+    "png": "res://assets/vfx/bosses/boss_fire_breath/boss_fire_breath.png",
+    "tres": "res://assets/vfx/bosses/boss_fire_breath/boss_fire_breath.tres",
+    "json": "res://assets/vfx/bosses/boss_fire_breath/boss_fire_breath.json"
+  },
+  {
+    "name": "boss_meteor",
+    "category": "bosses",
+    "pixelfx_id": "fire/meteor",
+    "fps": 30,
+    "loop": false,
+    "frames": 151,
+    "frame_size": [
+      272,
+      232
+    ],
+    "pivot": [
+      150,
+      208
+    ],
+    "png": "res://assets/vfx/bosses/boss_meteor/boss_meteor.png",
+    "tres": "res://assets/vfx/bosses/boss_meteor/boss_meteor.tres",
+    "json": "res://assets/vfx/bosses/boss_meteor/boss_meteor.json"
+  },
+  {
+    "name": "gravity_burst",
+    "category": "bosses",
+    "pixelfx_id": "arcane/mana-burst",
+    "fps": 30,
+    "loop": false,
+    "frames": 55,
+    "frame_size": [
+      208,
+      150
+    ],
+    "pivot": [
+      104,
+      124
+    ],
+    "png": "res://assets/vfx/bosses/gravity_burst/gravity_burst.png",
+    "tres": "res://assets/vfx/bosses/gravity_burst/gravity_burst.tres",
+    "json": "res://assets/vfx/bosses/gravity_burst/gravity_burst.json"
+  },
+  {
+    "name": "plasma_ball",
+    "category": "bosses",
+    "pixelfx_id": "lightning/ball-lightning",
+    "fps": 30,
+    "loop": true,
+    "frames": 120,
+    "frame_size": [
+      136,
+      104
+    ],
+    "pivot": [
+      68,
+      92
+    ],
+    "png": "res://assets/vfx/bosses/plasma_ball/plasma_ball.png",
+    "tres": "res://assets/vfx/bosses/plasma_ball/plasma_ball.tres",
+    "json": "res://assets/vfx/bosses/plasma_ball/plasma_ball.json"
+  },
+  {
+    "name": "corrupted_core",
+    "category": "bosses",
+    "pixelfx_id": "arcane/arcane-orb",
+    "fps": 30,
+    "loop": true,
+    "frames": 72,
+    "frame_size": [
+      136,
+      112
+    ],
+    "pivot": [
+      68,
+      104
+    ],
+    "png": "res://assets/vfx/bosses/corrupted_core/corrupted_core.png",
+    "tres": "res://assets/vfx/bosses/corrupted_core/corrupted_core.tres",
+    "json": "res://assets/vfx/bosses/corrupted_core/corrupted_core.json"
+  },
+  {
+    "name": "guardian_beam",
+    "category": "bosses",
+    "pixelfx_id": "arcane/arcane-beam",
+    "fps": 30,
+    "loop": true,
+    "frames": 36,
+    "frame_size": [
+      264,
+      100
+    ],
+    "pivot": [
+      26,
+      84
+    ],
+    "png": "res://assets/vfx/bosses/guardian_beam/guardian_beam.png",
+    "tres": "res://assets/vfx/bosses/guardian_beam/guardian_beam.tres",
+    "json": "res://assets/vfx/bosses/guardian_beam/guardian_beam.json"
+  },
+  {
+    "name": "guardian_missiles",
+    "category": "bosses",
+    "pixelfx_id": "arcane/arcane-missiles",
+    "fps": 30,
+    "loop": false,
+    "frames": 54,
+    "frame_size": [
+      240,
+      116
+    ],
+    "pivot": [
+      26,
+      88
+    ],
+    "png": "res://assets/vfx/bosses/guardian_missiles/guardian_missiles.png",
+    "tres": "res://assets/vfx/bosses/guardian_missiles/guardian_missiles.tres",
+    "json": "res://assets/vfx/bosses/guardian_missiles/guardian_missiles.json"
+  },
+  {
+    "name": "core_dark_explosion",
+    "category": "bosses",
+    "pixelfx_id": "shadow/dark-explosion",
+    "fps": 30,
+    "loop": false,
+    "frames": 115,
+    "frame_size": [
+      280,
+      248
+    ],
+    "pivot": [
+      140,
+      206
+    ],
+    "png": "res://assets/vfx/bosses/core_dark_explosion/core_dark_explosion.png",
+    "tres": "res://assets/vfx/bosses/core_dark_explosion/core_dark_explosion.tres",
+    "json": "res://assets/vfx/bosses/core_dark_explosion/core_dark_explosion.json"
+  },
+  {
+    "name": "core_restored_pillar",
+    "category": "bosses",
+    "pixelfx_id": "holy/holy-pillar",
+    "fps": 30,
+    "loop": false,
+    "frames": 106,
+    "frame_size": [
+      192,
+      232
+    ],
+    "pivot": [
+      96,
+      204
+    ],
+    "png": "res://assets/vfx/bosses/core_restored_pillar/core_restored_pillar.png",
+    "tres": "res://assets/vfx/bosses/core_restored_pillar/core_restored_pillar.tres",
+    "json": "res://assets/vfx/bosses/core_restored_pillar/core_restored_pillar.json"
+  },
+  {
+    "name": "heart_pickup",
+    "category": "pickups",
+    "pixelfx_id": "pickups/heart-pickup",
+    "fps": 30,
+    "loop": true,
+    "frames": 36,
+    "frame_size": [
+      56,
+      60
+    ],
+    "pivot": [
+      28,
+      52
+    ],
+    "png": "res://assets/vfx/pickups/heart_pickup/heart_pickup.png",
+    "tres": "res://assets/vfx/pickups/heart_pickup/heart_pickup.tres",
+    "json": "res://assets/vfx/pickups/heart_pickup/heart_pickup.json"
+  },
+  {
+    "name": "core_fragment",
+    "category": "pickups",
+    "pixelfx_id": "pickups/crystal-shard",
+    "fps": 30,
+    "loop": true,
+    "frames": 96,
+    "frame_size": [
+      64,
+      76
+    ],
+    "pivot": [
+      32,
+      68
+    ],
+    "png": "res://assets/vfx/pickups/core_fragment/core_fragment.png",
+    "tres": "res://assets/vfx/pickups/core_fragment/core_fragment.tres",
+    "json": "res://assets/vfx/pickups/core_fragment/core_fragment.json"
+  },
+  {
+    "name": "collect_burst",
+    "category": "pickups",
+    "pixelfx_id": "pickups/collect-burst",
+    "fps": 30,
+    "loop": false,
+    "frames": 42,
+    "frame_size": [
+      112,
+      108
+    ],
+    "pivot": [
+      56,
+      94
+    ],
+    "png": "res://assets/vfx/pickups/collect_burst/collect_burst.png",
+    "tres": "res://assets/vfx/pickups/collect_burst/collect_burst.tres",
+    "json": "res://assets/vfx/pickups/collect_burst/collect_burst.json"
+  },
+  {
+    "name": "coin_spin",
+    "category": "pickups",
+    "pixelfx_id": "pickups/coin-spin",
+    "fps": 30,
+    "loop": true,
+    "frames": 48,
+    "frame_size": [
+      56,
+      56
+    ],
+    "pivot": [
+      28,
+      48
+    ],
+    "png": "res://assets/vfx/pickups/coin_spin/coin_spin.png",
+    "tres": "res://assets/vfx/pickups/coin_spin/coin_spin.tres",
+    "json": "res://assets/vfx/pickups/coin_spin/coin_spin.json"
+  },
+  {
+    "name": "gem_spin",
+    "category": "pickups",
+    "pixelfx_id": "pickups/gem-spin",
+    "fps": 30,
+    "loop": true,
+    "frames": 72,
+    "frame_size": [
+      64,
+      64
+    ],
+    "pivot": [
+      32,
+      56
+    ],
+    "png": "res://assets/vfx/pickups/gem_spin/gem_spin.png",
+    "tres": "res://assets/vfx/pickups/gem_spin/gem_spin.tres",
+    "json": "res://assets/vfx/pickups/gem_spin/gem_spin.json"
+  },
+  {
+    "name": "chest_open",
+    "category": "pickups",
+    "pixelfx_id": "pickups/chest-open",
+    "fps": 30,
+    "loop": false,
+    "frames": 139,
+    "frame_size": [
+      176,
+      112
+    ],
+    "pivot": [
+      88,
+      96
+    ],
+    "png": "res://assets/vfx/pickups/chest_open/chest_open.png",
+    "tres": "res://assets/vfx/pickups/chest_open/chest_open.tres",
+    "json": "res://assets/vfx/pickups/chest_open/chest_open.json"
+  },
+  {
+    "name": "combo_popup",
+    "category": "ui",
+    "pixelfx_id": "ui/combo-counter",
+    "fps": 30,
+    "loop": false,
+    "frames": 45,
+    "frame_size": [
+      208,
+      100
+    ],
+    "pivot": [
+      104,
+      50
+    ],
+    "png": "res://assets/vfx/ui/combo_popup/combo_popup.png",
+    "tres": "res://assets/vfx/ui/combo_popup/combo_popup.tres",
+    "json": "res://assets/vfx/ui/combo_popup/combo_popup.json"
+  },
+  {
+    "name": "damage_number",
+    "category": "ui",
+    "pixelfx_id": "ui/damage-number",
+    "fps": 30,
+    "loop": false,
+    "frames": 33,
+    "frame_size": [
+      76,
+      68
+    ],
+    "pivot": [
+      30,
+      52
+    ],
+    "png": "res://assets/vfx/ui/damage_number/damage_number.png",
+    "tres": "res://assets/vfx/ui/damage_number/damage_number.tres",
+    "json": "res://assets/vfx/ui/damage_number/damage_number.json"
+  },
+  {
+    "name": "crit_number",
+    "category": "ui",
+    "pixelfx_id": "ui/crit-number",
+    "fps": 30,
+    "loop": false,
+    "frames": 46,
+    "frame_size": [
+      152,
+      120
+    ],
+    "pivot": [
+      76,
+      60
+    ],
+    "png": "res://assets/vfx/ui/crit_number/crit_number.png",
+    "tres": "res://assets/vfx/ui/crit_number/crit_number.tres",
+    "json": "res://assets/vfx/ui/crit_number/crit_number.json"
+  },
+  {
+    "name": "heart_lost",
+    "category": "ui",
+    "pixelfx_id": "ui/heart-lost",
+    "fps": 30,
+    "loop": false,
+    "frames": 46,
+    "frame_size": [
+      96,
+      88
+    ],
+    "pivot": [
+      48,
+      34
+    ],
+    "png": "res://assets/vfx/ui/heart_lost/heart_lost.png",
+    "tres": "res://assets/vfx/ui/heart_lost/heart_lost.tres",
+    "json": "res://assets/vfx/ui/heart_lost/heart_lost.json"
+  },
+  {
+    "name": "level_complete",
+    "category": "ui",
+    "pixelfx_id": "ui/quest-complete",
+    "fps": 30,
+    "loop": false,
+    "frames": 79,
+    "frame_size": [
+      204,
+      92
+    ],
+    "pivot": [
+      102,
+      46
+    ],
+    "png": "res://assets/vfx/ui/level_complete/level_complete.png",
+    "tres": "res://assets/vfx/ui/level_complete/level_complete.tres",
+    "json": "res://assets/vfx/ui/level_complete/level_complete.json"
+  },
+  {
+    "name": "slash_wipe",
+    "category": "ui",
+    "pixelfx_id": "transitions/slash-wipe",
+    "fps": 30,
+    "loop": false,
+    "frames": 52,
+    "frame_size": [
+      320,
+      180
+    ],
+    "pivot": [
+      0,
+      0
+    ],
+    "png": "res://assets/vfx/ui/slash_wipe/slash_wipe.png",
+    "tres": "res://assets/vfx/ui/slash_wipe/slash_wipe.tres",
+    "json": "res://assets/vfx/ui/slash_wipe/slash_wipe.json"
+  },
+  {
+    "name": "pixel_dissolve",
+    "category": "ui",
+    "pixelfx_id": "transitions/pixel-dissolve",
+    "fps": 30,
+    "loop": false,
+    "frames": 67,
+    "frame_size": [
+      320,
+      180
+    ],
+    "pivot": [
+      0,
+      0
+    ],
+    "png": "res://assets/vfx/ui/pixel_dissolve/pixel_dissolve.png",
+    "tres": "res://assets/vfx/ui/pixel_dissolve/pixel_dissolve.tres",
+    "json": "res://assets/vfx/ui/pixel_dissolve/pixel_dissolve.json"
+  }
+]

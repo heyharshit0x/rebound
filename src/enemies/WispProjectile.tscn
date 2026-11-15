@@ -1,0 +1,37 @@
+[gd_scene format=3 uid="uid://pokyy56c6jfh"]
+
+[ext_resource type="Script" path="res://src/enemies/WispProjectile.gd" id="1_script"]
+[ext_resource type="SpriteFrames" path="res://assets/vfx/bosses/plasma_ball/plasma_ball.tres" id="2_frames"]
+[ext_resource type="Script" path="res://src/combat/Hitbox.gd" id="3_hitbox"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_proj"]
+radius = 6.0
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_hit"]
+radius = 7.0
+
+[node name="WispProjectile" type="Area2D"]
+collision_layer = 0
+collision_mask = 1
+script = ExtResource("1_script")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("CircleShape2D_proj")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+scale = Vector2(0.2, 0.2)
+sprite_frames = ExtResource("2_frames")
+autoplay = "default"
+
+[node name="Hitbox" type="Area2D" parent="."]
+collision_layer = 4
+collision_mask = 2
+script = ExtResource("3_hitbox")
+faction = 1
+damage = 8
+knockback_force = 220.0
+is_parriable = true
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Hitbox"]
+shape = SubResource("CircleShape2D_hit")
+debug_color = Color(0.9, 0.4, 0.1, 0.4)

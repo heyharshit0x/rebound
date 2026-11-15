@@ -1,0 +1,1117 @@
+{
+ "frames": [
+  {
+   "filename": "enemy_death_poof 0",
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 1",
+   "frame": {
+    "x": 112,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 2",
+   "frame": {
+    "x": 224,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 3",
+   "frame": {
+    "x": 336,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 4",
+   "frame": {
+    "x": 448,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 5",
+   "frame": {
+    "x": 560,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 6",
+   "frame": {
+    "x": 672,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 7",
+   "frame": {
+    "x": 0,
+    "y": 92,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 8",
+   "frame": {
+    "x": 112,
+    "y": 92,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 9",
+   "frame": {
+    "x": 224,
+    "y": 92,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 10",
+   "frame": {
+    "x": 336,
+    "y": 92,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 11",
+   "frame": {
+    "x": 448,
+    "y": 92,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 12",
+   "frame": {
+    "x": 560,
+    "y": 92,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 13",
+   "frame": {
+    "x": 672,
+    "y": 92,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 14",
+   "frame": {
+    "x": 0,
+    "y": 184,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 15",
+   "frame": {
+    "x": 112,
+    "y": 184,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 16",
+   "frame": {
+    "x": 224,
+    "y": 184,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 17",
+   "frame": {
+    "x": 336,
+    "y": 184,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 18",
+   "frame": {
+    "x": 448,
+    "y": 184,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 19",
+   "frame": {
+    "x": 560,
+    "y": 184,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 20",
+   "frame": {
+    "x": 672,
+    "y": 184,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 21",
+   "frame": {
+    "x": 0,
+    "y": 276,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 22",
+   "frame": {
+    "x": 112,
+    "y": 276,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 23",
+   "frame": {
+    "x": 224,
+    "y": 276,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 24",
+   "frame": {
+    "x": 336,
+    "y": 276,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 25",
+   "frame": {
+    "x": 448,
+    "y": 276,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 26",
+   "frame": {
+    "x": 560,
+    "y": 276,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 27",
+   "frame": {
+    "x": 672,
+    "y": 276,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 28",
+   "frame": {
+    "x": 0,
+    "y": 368,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 29",
+   "frame": {
+    "x": 112,
+    "y": 368,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 30",
+   "frame": {
+    "x": 224,
+    "y": 368,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 31",
+   "frame": {
+    "x": 336,
+    "y": 368,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 32",
+   "frame": {
+    "x": 448,
+    "y": 368,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 33",
+   "frame": {
+    "x": 560,
+    "y": 368,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 34",
+   "frame": {
+    "x": 672,
+    "y": 368,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 35",
+   "frame": {
+    "x": 0,
+    "y": 460,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 36",
+   "frame": {
+    "x": 112,
+    "y": 460,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 37",
+   "frame": {
+    "x": 224,
+    "y": 460,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 38",
+   "frame": {
+    "x": 336,
+    "y": 460,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 39",
+   "frame": {
+    "x": 448,
+    "y": 460,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 40",
+   "frame": {
+    "x": 560,
+    "y": 460,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 41",
+   "frame": {
+    "x": 672,
+    "y": 460,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 42",
+   "frame": {
+    "x": 0,
+    "y": 552,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 43",
+   "frame": {
+    "x": 112,
+    "y": 552,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 44",
+   "frame": {
+    "x": 224,
+    "y": 552,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 45",
+   "frame": {
+    "x": 336,
+    "y": 552,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 46",
+   "frame": {
+    "x": 448,
+    "y": 552,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 47",
+   "frame": {
+    "x": 560,
+    "y": 552,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  },
+  {
+   "filename": "enemy_death_poof 48",
+   "frame": {
+    "x": 672,
+    "y": 552,
+    "w": 112,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 92
+   },
+   "duration": 33
+  }
+ ],
+ "meta": {
+  "app": "https://github.com/patch-gg/pixelfx",
+  "version": "1",
+  "image": "enemy_death_poof.png",
+  "format": "RGBA8888",
+  "size": {
+   "w": 784,
+   "h": 644
+  },
+  "scale": "1",
+  "frameTags": [
+   {
+    "name": "enemy_death_poof",
+    "from": 0,
+    "to": 48,
+    "direction": "forward"
+   }
+  ],
+  "pixelfx": {
+   "id": "spawn/poof",
+   "name": "Poof",
+   "fps": 30,
+   "loop": false,
+   "frames": 49,
+   "frameSize": [
+    112,
+    92
+   ],
+   "pivot": [
+    56,
+    80
+   ],
+   "columns": 7
+  }
+ }
+}

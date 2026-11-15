@@ -1,0 +1,3361 @@
+{
+ "frames": [
+  {
+   "filename": "boss_meteor 0",
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 1",
+   "frame": {
+    "x": 272,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 2",
+   "frame": {
+    "x": 544,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 3",
+   "frame": {
+    "x": 816,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 4",
+   "frame": {
+    "x": 1088,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 5",
+   "frame": {
+    "x": 1360,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 6",
+   "frame": {
+    "x": 1632,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 7",
+   "frame": {
+    "x": 1904,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 8",
+   "frame": {
+    "x": 2176,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 9",
+   "frame": {
+    "x": 2448,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 10",
+   "frame": {
+    "x": 2720,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 11",
+   "frame": {
+    "x": 2992,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 12",
+   "frame": {
+    "x": 0,
+    "y": 232,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 13",
+   "frame": {
+    "x": 272,
+    "y": 232,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 14",
+   "frame": {
+    "x": 544,
+    "y": 232,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 15",
+   "frame": {
+    "x": 816,
+    "y": 232,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 16",
+   "frame": {
+    "x": 1088,
+    "y": 232,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 17",
+   "frame": {
+    "x": 1360,
+    "y": 232,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 18",
+   "frame": {
+    "x": 1632,
+    "y": 232,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 19",
+   "frame": {
+    "x": 1904,
+    "y": 232,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 20",
+   "frame": {
+    "x": 2176,
+    "y": 232,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 21",
+   "frame": {
+    "x": 2448,
+    "y": 232,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 22",
+   "frame": {
+    "x": 2720,
+    "y": 232,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 23",
+   "frame": {
+    "x": 2992,
+    "y": 232,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 24",
+   "frame": {
+    "x": 0,
+    "y": 464,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 25",
+   "frame": {
+    "x": 272,
+    "y": 464,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 26",
+   "frame": {
+    "x": 544,
+    "y": 464,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 27",
+   "frame": {
+    "x": 816,
+    "y": 464,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 28",
+   "frame": {
+    "x": 1088,
+    "y": 464,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 29",
+   "frame": {
+    "x": 1360,
+    "y": 464,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 30",
+   "frame": {
+    "x": 1632,
+    "y": 464,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 31",
+   "frame": {
+    "x": 1904,
+    "y": 464,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 32",
+   "frame": {
+    "x": 2176,
+    "y": 464,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 33",
+   "frame": {
+    "x": 2448,
+    "y": 464,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 34",
+   "frame": {
+    "x": 2720,
+    "y": 464,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 35",
+   "frame": {
+    "x": 2992,
+    "y": 464,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 36",
+   "frame": {
+    "x": 0,
+    "y": 696,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 37",
+   "frame": {
+    "x": 272,
+    "y": 696,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 38",
+   "frame": {
+    "x": 544,
+    "y": 696,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 39",
+   "frame": {
+    "x": 816,
+    "y": 696,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 40",
+   "frame": {
+    "x": 1088,
+    "y": 696,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 41",
+   "frame": {
+    "x": 1360,
+    "y": 696,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 42",
+   "frame": {
+    "x": 1632,
+    "y": 696,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 43",
+   "frame": {
+    "x": 1904,
+    "y": 696,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 44",
+   "frame": {
+    "x": 2176,
+    "y": 696,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 45",
+   "frame": {
+    "x": 2448,
+    "y": 696,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 46",
+   "frame": {
+    "x": 2720,
+    "y": 696,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 47",
+   "frame": {
+    "x": 2992,
+    "y": 696,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 48",
+   "frame": {
+    "x": 0,
+    "y": 928,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 49",
+   "frame": {
+    "x": 272,
+    "y": 928,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 50",
+   "frame": {
+    "x": 544,
+    "y": 928,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 51",
+   "frame": {
+    "x": 816,
+    "y": 928,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 52",
+   "frame": {
+    "x": 1088,
+    "y": 928,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 53",
+   "frame": {
+    "x": 1360,
+    "y": 928,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 54",
+   "frame": {
+    "x": 1632,
+    "y": 928,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 55",
+   "frame": {
+    "x": 1904,
+    "y": 928,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 56",
+   "frame": {
+    "x": 2176,
+    "y": 928,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 57",
+   "frame": {
+    "x": 2448,
+    "y": 928,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 58",
+   "frame": {
+    "x": 2720,
+    "y": 928,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 59",
+   "frame": {
+    "x": 2992,
+    "y": 928,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 60",
+   "frame": {
+    "x": 0,
+    "y": 1160,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 61",
+   "frame": {
+    "x": 272,
+    "y": 1160,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 62",
+   "frame": {
+    "x": 544,
+    "y": 1160,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 63",
+   "frame": {
+    "x": 816,
+    "y": 1160,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 64",
+   "frame": {
+    "x": 1088,
+    "y": 1160,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 65",
+   "frame": {
+    "x": 1360,
+    "y": 1160,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 66",
+   "frame": {
+    "x": 1632,
+    "y": 1160,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 67",
+   "frame": {
+    "x": 1904,
+    "y": 1160,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 68",
+   "frame": {
+    "x": 2176,
+    "y": 1160,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 69",
+   "frame": {
+    "x": 2448,
+    "y": 1160,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 70",
+   "frame": {
+    "x": 2720,
+    "y": 1160,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 71",
+   "frame": {
+    "x": 2992,
+    "y": 1160,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 72",
+   "frame": {
+    "x": 0,
+    "y": 1392,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 73",
+   "frame": {
+    "x": 272,
+    "y": 1392,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 74",
+   "frame": {
+    "x": 544,
+    "y": 1392,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 75",
+   "frame": {
+    "x": 816,
+    "y": 1392,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 76",
+   "frame": {
+    "x": 1088,
+    "y": 1392,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 77",
+   "frame": {
+    "x": 1360,
+    "y": 1392,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 78",
+   "frame": {
+    "x": 1632,
+    "y": 1392,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 79",
+   "frame": {
+    "x": 1904,
+    "y": 1392,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 80",
+   "frame": {
+    "x": 2176,
+    "y": 1392,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 81",
+   "frame": {
+    "x": 2448,
+    "y": 1392,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 82",
+   "frame": {
+    "x": 2720,
+    "y": 1392,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 83",
+   "frame": {
+    "x": 2992,
+    "y": 1392,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 84",
+   "frame": {
+    "x": 0,
+    "y": 1624,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 85",
+   "frame": {
+    "x": 272,
+    "y": 1624,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 86",
+   "frame": {
+    "x": 544,
+    "y": 1624,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 87",
+   "frame": {
+    "x": 816,
+    "y": 1624,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 88",
+   "frame": {
+    "x": 1088,
+    "y": 1624,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 89",
+   "frame": {
+    "x": 1360,
+    "y": 1624,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 90",
+   "frame": {
+    "x": 1632,
+    "y": 1624,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 91",
+   "frame": {
+    "x": 1904,
+    "y": 1624,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 92",
+   "frame": {
+    "x": 2176,
+    "y": 1624,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 93",
+   "frame": {
+    "x": 2448,
+    "y": 1624,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 94",
+   "frame": {
+    "x": 2720,
+    "y": 1624,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 95",
+   "frame": {
+    "x": 2992,
+    "y": 1624,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 96",
+   "frame": {
+    "x": 0,
+    "y": 1856,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 97",
+   "frame": {
+    "x": 272,
+    "y": 1856,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 98",
+   "frame": {
+    "x": 544,
+    "y": 1856,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 99",
+   "frame": {
+    "x": 816,
+    "y": 1856,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 100",
+   "frame": {
+    "x": 1088,
+    "y": 1856,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 101",
+   "frame": {
+    "x": 1360,
+    "y": 1856,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 102",
+   "frame": {
+    "x": 1632,
+    "y": 1856,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 103",
+   "frame": {
+    "x": 1904,
+    "y": 1856,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 104",
+   "frame": {
+    "x": 2176,
+    "y": 1856,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 105",
+   "frame": {
+    "x": 2448,
+    "y": 1856,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 106",
+   "frame": {
+    "x": 2720,
+    "y": 1856,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 107",
+   "frame": {
+    "x": 2992,
+    "y": 1856,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 108",
+   "frame": {
+    "x": 0,
+    "y": 2088,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 109",
+   "frame": {
+    "x": 272,
+    "y": 2088,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 110",
+   "frame": {
+    "x": 544,
+    "y": 2088,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 111",
+   "frame": {
+    "x": 816,
+    "y": 2088,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 112",
+   "frame": {
+    "x": 1088,
+    "y": 2088,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 113",
+   "frame": {
+    "x": 1360,
+    "y": 2088,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 114",
+   "frame": {
+    "x": 1632,
+    "y": 2088,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 115",
+   "frame": {
+    "x": 1904,
+    "y": 2088,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 116",
+   "frame": {
+    "x": 2176,
+    "y": 2088,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 117",
+   "frame": {
+    "x": 2448,
+    "y": 2088,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 118",
+   "frame": {
+    "x": 2720,
+    "y": 2088,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 119",
+   "frame": {
+    "x": 2992,
+    "y": 2088,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 120",
+   "frame": {
+    "x": 0,
+    "y": 2320,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 121",
+   "frame": {
+    "x": 272,
+    "y": 2320,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 122",
+   "frame": {
+    "x": 544,
+    "y": 2320,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 123",
+   "frame": {
+    "x": 816,
+    "y": 2320,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 124",
+   "frame": {
+    "x": 1088,
+    "y": 2320,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 125",
+   "frame": {
+    "x": 1360,
+    "y": 2320,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 126",
+   "frame": {
+    "x": 1632,
+    "y": 2320,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 127",
+   "frame": {
+    "x": 1904,
+    "y": 2320,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 128",
+   "frame": {
+    "x": 2176,
+    "y": 2320,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 129",
+   "frame": {
+    "x": 2448,
+    "y": 2320,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 130",
+   "frame": {
+    "x": 2720,
+    "y": 2320,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 131",
+   "frame": {
+    "x": 2992,
+    "y": 2320,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 132",
+   "frame": {
+    "x": 0,
+    "y": 2552,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 133",
+   "frame": {
+    "x": 272,
+    "y": 2552,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 134",
+   "frame": {
+    "x": 544,
+    "y": 2552,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 135",
+   "frame": {
+    "x": 816,
+    "y": 2552,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 136",
+   "frame": {
+    "x": 1088,
+    "y": 2552,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 137",
+   "frame": {
+    "x": 1360,
+    "y": 2552,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 138",
+   "frame": {
+    "x": 1632,
+    "y": 2552,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 139",
+   "frame": {
+    "x": 1904,
+    "y": 2552,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 140",
+   "frame": {
+    "x": 2176,
+    "y": 2552,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 141",
+   "frame": {
+    "x": 2448,
+    "y": 2552,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 142",
+   "frame": {
+    "x": 2720,
+    "y": 2552,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 143",
+   "frame": {
+    "x": 2992,
+    "y": 2552,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 144",
+   "frame": {
+    "x": 0,
+    "y": 2784,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 145",
+   "frame": {
+    "x": 272,
+    "y": 2784,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 146",
+   "frame": {
+    "x": 544,
+    "y": 2784,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 147",
+   "frame": {
+    "x": 816,
+    "y": 2784,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 148",
+   "frame": {
+    "x": 1088,
+    "y": 2784,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 149",
+   "frame": {
+    "x": 1360,
+    "y": 2784,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  },
+  {
+   "filename": "boss_meteor 150",
+   "frame": {
+    "x": 1632,
+    "y": 2784,
+    "w": 272,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 232
+   },
+   "duration": 33
+  }
+ ],
+ "meta": {
+  "app": "https://github.com/patch-gg/pixelfx",
+  "version": "1",
+  "image": "boss_meteor.png",
+  "format": "RGBA8888",
+  "size": {
+   "w": 3264,
+   "h": 3016
+  },
+  "scale": "1",
+  "frameTags": [
+   {
+    "name": "boss_meteor",
+    "from": 0,
+    "to": 150,
+    "direction": "forward"
+   }
+  ],
+  "pixelfx": {
+   "id": "fire/meteor",
+   "name": "Meteor",
+   "fps": 30,
+   "loop": false,
+   "frames": 151,
+   "frameSize": [
+    272,
+    232
+   ],
+   "pivot": [
+    150,
+    208
+   ],
+   "columns": 12
+  }
+ }
+}

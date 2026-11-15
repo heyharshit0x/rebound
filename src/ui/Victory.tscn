@@ -1,0 +1,123 @@
+[gd_scene format=3 uid="uid://w2h37yxlfv7b"]
+
+[ext_resource type="Script" path="res://src/ui/Victory.gd" id="1_script"]
+[ext_resource type="FontFile" path="res://assets/font/Runiga.otf" id="2_runiga_font"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_btn_normal"]
+bg_color = Color(0.08, 0.05, 0.12, 0.85)
+border_width_left = 1
+border_width_top = 1
+border_width_right = 1
+border_width_bottom = 1
+border_color = Color(0.65, 0.45, 0.8, 0.85)
+corner_radius_top_left = 2
+corner_radius_top_right = 2
+corner_radius_bottom_right = 2
+corner_radius_bottom_left = 2
+content_margin_left = 12.0
+content_margin_top = 4.0
+content_margin_right = 12.0
+content_margin_bottom = 4.0
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_btn_hover"]
+bg_color = Color(0.25, 0.12, 0.35, 0.95)
+border_width_left = 1
+border_width_top = 1
+border_width_right = 1
+border_width_bottom = 1
+border_color = Color(1.2, 0.9, 0.4, 1)
+corner_radius_top_left = 2
+corner_radius_top_right = 2
+corner_radius_bottom_right = 2
+corner_radius_bottom_left = 2
+content_margin_left = 12.0
+content_margin_top = 4.0
+content_margin_right = 12.0
+content_margin_bottom = 4.0
+
+[node name="VictoryScreen" type="CanvasLayer"]
+process_mode = 3
+layer = 10
+script = ExtResource("1_script")
+
+[node name="DimOverlay" type="ColorRect" parent="."]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0.02, 0.04, 0.03, 0.88)
+
+[node name="Panel" type="VBoxContainer" parent="."]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -170.0
+offset_top = -80.0
+offset_right = 170.0
+offset_bottom = 80.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/separation = 8
+alignment = 1
+
+[node name="Title" type="Label" parent="Panel"]
+layout_mode = 2
+modulate = Color(1, 1, 1, 0)
+theme_override_colors/font_color = Color(1, 0.9, 0.4, 1)
+theme_override_colors/font_outline_color = Color(0.15, 0.08, 0.02, 1)
+theme_override_constants/outline_size = 4
+theme_override_fonts/font = ExtResource("2_runiga_font")
+theme_override_font_sizes/font_size = 20
+text = "✦ ALL VOID REALMS CONQUERED ✦"
+horizontal_alignment = 1
+
+[node name="Subtitle" type="Label" parent="Panel"]
+layout_mode = 2
+modulate = Color(1, 1, 1, 0)
+theme_override_colors/font_color = Color(0.85, 0.95, 0.9, 0.95)
+theme_override_colors/font_outline_color = Color(0.04, 0.1, 0.06, 1)
+theme_override_constants/outline_size = 2
+theme_override_fonts/font = ExtResource("2_runiga_font")
+theme_override_font_sizes/font_size = 9
+text = "THE CRYSTAL HEART IS RESTORED • MANKIND SURVIVES"
+horizontal_alignment = 1
+
+[node name="Spacer" type="Control" parent="Panel"]
+custom_minimum_size = Vector2(0, 4)
+layout_mode = 2
+
+[node name="Buttons" type="HBoxContainer" parent="Panel"]
+layout_mode = 2
+theme_override_constants/separation = 8
+alignment = 1
+
+[node name="ReplayBtn" type="Button" parent="Panel/Buttons"]
+layout_mode = 2
+theme_override_colors/font_color = Color(1, 0.92, 0.8, 1)
+theme_override_font_sizes/font_size = 9
+theme_override_styles/normal = SubResource("StyleBoxFlat_btn_normal")
+theme_override_styles/hover = SubResource("StyleBoxFlat_btn_hover")
+text = "⚔ REPLAY CONQUEST"
+
+[node name="TrainingBtn" type="Button" parent="Panel/Buttons"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.85, 0.92, 1, 1)
+theme_override_font_sizes/font_size = 9
+theme_override_styles/normal = SubResource("StyleBoxFlat_btn_normal")
+theme_override_styles/hover = SubResource("StyleBoxFlat_btn_hover")
+text = "🛡 TRAINING"
+
+[node name="MenuBtn" type="Button" parent="Panel/Buttons"]
+layout_mode = 2
+theme_override_colors/font_color = Color(1, 0.8, 0.85, 1)
+theme_override_font_sizes/font_size = 9
+theme_override_styles/normal = SubResource("StyleBoxFlat_btn_normal")
+theme_override_styles/hover = SubResource("StyleBoxFlat_btn_hover")
+text = "✦ TITLE MENU"
+
+[connection signal="pressed" from="Panel/Buttons/ReplayBtn" to="." method="_on_replay_pressed"]
+[connection signal="pressed" from="Panel/Buttons/TrainingBtn" to="." method="_on_training_pressed"]
+[connection signal="pressed" from="Panel/Buttons/MenuBtn" to="." method="_on_menu_pressed"]

@@ -1,0 +1,3361 @@
+{
+ "frames": [
+  {
+   "filename": "flame_pillar 0",
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 1",
+   "frame": {
+    "x": 184,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 2",
+   "frame": {
+    "x": 368,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 3",
+   "frame": {
+    "x": 552,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 4",
+   "frame": {
+    "x": 736,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 5",
+   "frame": {
+    "x": 920,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 6",
+   "frame": {
+    "x": 1104,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 7",
+   "frame": {
+    "x": 1288,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 8",
+   "frame": {
+    "x": 1472,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 9",
+   "frame": {
+    "x": 1656,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 10",
+   "frame": {
+    "x": 1840,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 11",
+   "frame": {
+    "x": 2024,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 12",
+   "frame": {
+    "x": 2208,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 13",
+   "frame": {
+    "x": 2392,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 14",
+   "frame": {
+    "x": 2576,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 15",
+   "frame": {
+    "x": 0,
+    "y": 256,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 16",
+   "frame": {
+    "x": 184,
+    "y": 256,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 17",
+   "frame": {
+    "x": 368,
+    "y": 256,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 18",
+   "frame": {
+    "x": 552,
+    "y": 256,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 19",
+   "frame": {
+    "x": 736,
+    "y": 256,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 20",
+   "frame": {
+    "x": 920,
+    "y": 256,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 21",
+   "frame": {
+    "x": 1104,
+    "y": 256,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 22",
+   "frame": {
+    "x": 1288,
+    "y": 256,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 23",
+   "frame": {
+    "x": 1472,
+    "y": 256,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 24",
+   "frame": {
+    "x": 1656,
+    "y": 256,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 25",
+   "frame": {
+    "x": 1840,
+    "y": 256,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 26",
+   "frame": {
+    "x": 2024,
+    "y": 256,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 27",
+   "frame": {
+    "x": 2208,
+    "y": 256,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 28",
+   "frame": {
+    "x": 2392,
+    "y": 256,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 29",
+   "frame": {
+    "x": 2576,
+    "y": 256,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 30",
+   "frame": {
+    "x": 0,
+    "y": 512,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 31",
+   "frame": {
+    "x": 184,
+    "y": 512,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 32",
+   "frame": {
+    "x": 368,
+    "y": 512,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 33",
+   "frame": {
+    "x": 552,
+    "y": 512,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 34",
+   "frame": {
+    "x": 736,
+    "y": 512,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 35",
+   "frame": {
+    "x": 920,
+    "y": 512,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 36",
+   "frame": {
+    "x": 1104,
+    "y": 512,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 37",
+   "frame": {
+    "x": 1288,
+    "y": 512,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 38",
+   "frame": {
+    "x": 1472,
+    "y": 512,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 39",
+   "frame": {
+    "x": 1656,
+    "y": 512,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 40",
+   "frame": {
+    "x": 1840,
+    "y": 512,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 41",
+   "frame": {
+    "x": 2024,
+    "y": 512,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 42",
+   "frame": {
+    "x": 2208,
+    "y": 512,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 43",
+   "frame": {
+    "x": 2392,
+    "y": 512,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 44",
+   "frame": {
+    "x": 2576,
+    "y": 512,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 45",
+   "frame": {
+    "x": 0,
+    "y": 768,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 46",
+   "frame": {
+    "x": 184,
+    "y": 768,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 47",
+   "frame": {
+    "x": 368,
+    "y": 768,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 48",
+   "frame": {
+    "x": 552,
+    "y": 768,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 49",
+   "frame": {
+    "x": 736,
+    "y": 768,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 50",
+   "frame": {
+    "x": 920,
+    "y": 768,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 51",
+   "frame": {
+    "x": 1104,
+    "y": 768,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 52",
+   "frame": {
+    "x": 1288,
+    "y": 768,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 53",
+   "frame": {
+    "x": 1472,
+    "y": 768,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 54",
+   "frame": {
+    "x": 1656,
+    "y": 768,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 55",
+   "frame": {
+    "x": 1840,
+    "y": 768,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 56",
+   "frame": {
+    "x": 2024,
+    "y": 768,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 57",
+   "frame": {
+    "x": 2208,
+    "y": 768,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 58",
+   "frame": {
+    "x": 2392,
+    "y": 768,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 59",
+   "frame": {
+    "x": 2576,
+    "y": 768,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 60",
+   "frame": {
+    "x": 0,
+    "y": 1024,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 61",
+   "frame": {
+    "x": 184,
+    "y": 1024,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 62",
+   "frame": {
+    "x": 368,
+    "y": 1024,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 63",
+   "frame": {
+    "x": 552,
+    "y": 1024,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 64",
+   "frame": {
+    "x": 736,
+    "y": 1024,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 65",
+   "frame": {
+    "x": 920,
+    "y": 1024,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 66",
+   "frame": {
+    "x": 1104,
+    "y": 1024,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 67",
+   "frame": {
+    "x": 1288,
+    "y": 1024,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 68",
+   "frame": {
+    "x": 1472,
+    "y": 1024,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 69",
+   "frame": {
+    "x": 1656,
+    "y": 1024,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 70",
+   "frame": {
+    "x": 1840,
+    "y": 1024,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 71",
+   "frame": {
+    "x": 2024,
+    "y": 1024,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 72",
+   "frame": {
+    "x": 2208,
+    "y": 1024,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 73",
+   "frame": {
+    "x": 2392,
+    "y": 1024,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 74",
+   "frame": {
+    "x": 2576,
+    "y": 1024,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 75",
+   "frame": {
+    "x": 0,
+    "y": 1280,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 76",
+   "frame": {
+    "x": 184,
+    "y": 1280,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 77",
+   "frame": {
+    "x": 368,
+    "y": 1280,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 78",
+   "frame": {
+    "x": 552,
+    "y": 1280,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 79",
+   "frame": {
+    "x": 736,
+    "y": 1280,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 80",
+   "frame": {
+    "x": 920,
+    "y": 1280,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 81",
+   "frame": {
+    "x": 1104,
+    "y": 1280,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 82",
+   "frame": {
+    "x": 1288,
+    "y": 1280,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 83",
+   "frame": {
+    "x": 1472,
+    "y": 1280,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 84",
+   "frame": {
+    "x": 1656,
+    "y": 1280,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 85",
+   "frame": {
+    "x": 1840,
+    "y": 1280,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 86",
+   "frame": {
+    "x": 2024,
+    "y": 1280,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 87",
+   "frame": {
+    "x": 2208,
+    "y": 1280,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 88",
+   "frame": {
+    "x": 2392,
+    "y": 1280,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 89",
+   "frame": {
+    "x": 2576,
+    "y": 1280,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 90",
+   "frame": {
+    "x": 0,
+    "y": 1536,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 91",
+   "frame": {
+    "x": 184,
+    "y": 1536,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 92",
+   "frame": {
+    "x": 368,
+    "y": 1536,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 93",
+   "frame": {
+    "x": 552,
+    "y": 1536,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 94",
+   "frame": {
+    "x": 736,
+    "y": 1536,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 95",
+   "frame": {
+    "x": 920,
+    "y": 1536,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 96",
+   "frame": {
+    "x": 1104,
+    "y": 1536,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 97",
+   "frame": {
+    "x": 1288,
+    "y": 1536,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 98",
+   "frame": {
+    "x": 1472,
+    "y": 1536,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 99",
+   "frame": {
+    "x": 1656,
+    "y": 1536,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 100",
+   "frame": {
+    "x": 1840,
+    "y": 1536,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 101",
+   "frame": {
+    "x": 2024,
+    "y": 1536,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 102",
+   "frame": {
+    "x": 2208,
+    "y": 1536,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 103",
+   "frame": {
+    "x": 2392,
+    "y": 1536,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 104",
+   "frame": {
+    "x": 2576,
+    "y": 1536,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 105",
+   "frame": {
+    "x": 0,
+    "y": 1792,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 106",
+   "frame": {
+    "x": 184,
+    "y": 1792,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 107",
+   "frame": {
+    "x": 368,
+    "y": 1792,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 108",
+   "frame": {
+    "x": 552,
+    "y": 1792,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 109",
+   "frame": {
+    "x": 736,
+    "y": 1792,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 110",
+   "frame": {
+    "x": 920,
+    "y": 1792,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 111",
+   "frame": {
+    "x": 1104,
+    "y": 1792,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 112",
+   "frame": {
+    "x": 1288,
+    "y": 1792,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 113",
+   "frame": {
+    "x": 1472,
+    "y": 1792,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 114",
+   "frame": {
+    "x": 1656,
+    "y": 1792,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 115",
+   "frame": {
+    "x": 1840,
+    "y": 1792,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 116",
+   "frame": {
+    "x": 2024,
+    "y": 1792,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 117",
+   "frame": {
+    "x": 2208,
+    "y": 1792,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 118",
+   "frame": {
+    "x": 2392,
+    "y": 1792,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 119",
+   "frame": {
+    "x": 2576,
+    "y": 1792,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 120",
+   "frame": {
+    "x": 0,
+    "y": 2048,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 121",
+   "frame": {
+    "x": 184,
+    "y": 2048,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 122",
+   "frame": {
+    "x": 368,
+    "y": 2048,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 123",
+   "frame": {
+    "x": 552,
+    "y": 2048,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 124",
+   "frame": {
+    "x": 736,
+    "y": 2048,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 125",
+   "frame": {
+    "x": 920,
+    "y": 2048,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 126",
+   "frame": {
+    "x": 1104,
+    "y": 2048,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 127",
+   "frame": {
+    "x": 1288,
+    "y": 2048,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 128",
+   "frame": {
+    "x": 1472,
+    "y": 2048,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 129",
+   "frame": {
+    "x": 1656,
+    "y": 2048,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 130",
+   "frame": {
+    "x": 1840,
+    "y": 2048,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 131",
+   "frame": {
+    "x": 2024,
+    "y": 2048,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 132",
+   "frame": {
+    "x": 2208,
+    "y": 2048,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 133",
+   "frame": {
+    "x": 2392,
+    "y": 2048,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 134",
+   "frame": {
+    "x": 2576,
+    "y": 2048,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 135",
+   "frame": {
+    "x": 0,
+    "y": 2304,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 136",
+   "frame": {
+    "x": 184,
+    "y": 2304,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 137",
+   "frame": {
+    "x": 368,
+    "y": 2304,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 138",
+   "frame": {
+    "x": 552,
+    "y": 2304,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 139",
+   "frame": {
+    "x": 736,
+    "y": 2304,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 140",
+   "frame": {
+    "x": 920,
+    "y": 2304,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 141",
+   "frame": {
+    "x": 1104,
+    "y": 2304,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 142",
+   "frame": {
+    "x": 1288,
+    "y": 2304,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 143",
+   "frame": {
+    "x": 1472,
+    "y": 2304,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 144",
+   "frame": {
+    "x": 1656,
+    "y": 2304,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 145",
+   "frame": {
+    "x": 1840,
+    "y": 2304,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 146",
+   "frame": {
+    "x": 2024,
+    "y": 2304,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 147",
+   "frame": {
+    "x": 2208,
+    "y": 2304,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 148",
+   "frame": {
+    "x": 2392,
+    "y": 2304,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 149",
+   "frame": {
+    "x": 2576,
+    "y": 2304,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  },
+  {
+   "filename": "flame_pillar 150",
+   "frame": {
+    "x": 0,
+    "y": 2560,
+    "w": 184,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 256
+   },
+   "duration": 33
+  }
+ ],
+ "meta": {
+  "app": "https://github.com/patch-gg/pixelfx",
+  "version": "1",
+  "image": "flame_pillar.png",
+  "format": "RGBA8888",
+  "size": {
+   "w": 2760,
+   "h": 2816
+  },
+  "scale": "1",
+  "frameTags": [
+   {
+    "name": "flame_pillar",
+    "from": 0,
+    "to": 150,
+    "direction": "forward"
+   }
+  ],
+  "pixelfx": {
+   "id": "fire/flame-pillar",
+   "name": "Flame pillar",
+   "fps": 30,
+   "loop": false,
+   "frames": 151,
+   "frameSize": [
+    184,
+    256
+   ],
+   "pivot": [
+    92,
+    232
+   ],
+   "columns": 15
+  }
+ }
+}
