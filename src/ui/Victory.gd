@@ -8,20 +8,24 @@ extends CanvasLayer
 @onready var subtitle_label: Label = $Panel/Subtitle
 
 func _ready() -> void:
+	AudioManager.play_story_credits_bgm()
 	AudioManager.play_sfx(&"victory", 3.0)
 	var tween: Tween = create_tween()
 	tween.tween_property(title_label, "modulate:a", 1.0, 0.45).set_trans(Tween.TRANS_BACK)
 	tween.tween_property(subtitle_label, "modulate:a", 1.0, 0.30)
 
 func _on_replay_pressed() -> void:
+	AudioManager.restore_main_bgm()
 	AudioManager.play_sfx(&"ui_click", 2.0)
 	get_tree().change_scene_to_file("res://src/levels/Level01.tscn")
 
 func _on_training_pressed() -> void:
+	AudioManager.restore_main_bgm()
 	AudioManager.play_sfx(&"ui_click", 2.0)
 	get_tree().change_scene_to_file("res://src/levels/TrainingChamber.tscn")
 
 func _on_menu_pressed() -> void:
+	AudioManager.restore_main_bgm()
 	AudioManager.play_sfx(&"ui_click", 2.0)
 	get_tree().change_scene_to_file("res://src/ui/MainMenu.tscn")
 

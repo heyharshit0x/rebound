@@ -235,6 +235,16 @@ theme_override_styles/hover = SubResource("StyleBoxFlat_btn_hover")
 theme_override_styles/pressed = SubResource("StyleBoxFlat_btn_pressed")
 text = "✦  STORY PROLOGUE"
 
+[node name="CreditsBtn" type="Button" parent="CanvasLayer/CenterContainer/VBox/MenuButtons"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.9, 0.85, 1, 1)
+theme_override_colors/font_hover_color = Color(1.2, 0.7, 1.4, 1)
+theme_override_font_sizes/font_size = 11
+theme_override_styles/normal = SubResource("StyleBoxFlat_btn_normal")
+theme_override_styles/hover = SubResource("StyleBoxFlat_btn_hover")
+theme_override_styles/pressed = SubResource("StyleBoxFlat_btn_pressed")
+text = "★  CREDITS"
+
 [node name="QuitBtn" type="Button" parent="CanvasLayer/CenterContainer/VBox/MenuButtons"]
 layout_mode = 2
 theme_override_colors/font_color = Color(0.85, 0.75, 0.8, 0.85)
@@ -335,10 +345,130 @@ theme_override_styles/normal = SubResource("StyleBoxFlat_btn_normal")
 theme_override_styles/hover = SubResource("StyleBoxFlat_btn_hover")
 text = "✕ CLOSE"
 
+[node name="CreditsModal" type="Control" parent="CanvasLayer"]
+visible = false
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Backdrop" type="ColorRect" parent="CanvasLayer/CreditsModal"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0.02, 0.01, 0.04, 0.92)
+
+[node name="Panel" type="PanelContainer" parent="CanvasLayer/CreditsModal"]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -150.0
+offset_top = -105.0
+offset_right = 150.0
+offset_bottom = 105.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_story_panel")
+
+[node name="VBox" type="VBoxContainer" parent="CanvasLayer/CreditsModal/Panel"]
+layout_mode = 2
+theme_override_constants/separation = 7
+alignment = 1
+
+[node name="Title" type="Label" parent="CanvasLayer/CreditsModal/Panel/VBox"]
+layout_mode = 2
+theme_override_colors/font_color = Color(1, 0.88, 0.45, 1)
+theme_override_colors/font_shadow_color = Color(0, 0, 0, 0.95)
+theme_override_constants/shadow_offset_x = 1
+theme_override_constants/shadow_offset_y = 1
+theme_override_constants/outline_size = 3
+theme_override_fonts/font = ExtResource("2_press_start")
+theme_override_font_sizes/font_size = 11
+text = "✦ CREDITS ✦"
+horizontal_alignment = 1
+
+[node name="Subtitle" type="Label" parent="CanvasLayer/CreditsModal/Panel/VBox"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.75, 0.85, 1, 0.95)
+theme_override_font_sizes/font_size = 8
+text = "REBOUND — CREATED BY"
+horizontal_alignment = 1
+
+[node name="Spacer" type="Control" parent="CanvasLayer/CreditsModal/Panel/VBox"]
+custom_minimum_size = Vector2(0, 2)
+layout_mode = 2
+
+[node name="NamesBox" type="VBoxContainer" parent="CanvasLayer/CreditsModal/Panel/VBox"]
+layout_mode = 2
+theme_override_constants/separation = 6
+alignment = 1
+
+[node name="Harshit" type="Label" parent="CanvasLayer/CreditsModal/Panel/VBox/NamesBox"]
+layout_mode = 2
+theme_override_colors/font_color = Color(1, 0.92, 0.65, 1)
+theme_override_colors/font_shadow_color = Color(0.2, 0.1, 0.05, 0.95)
+theme_override_constants/shadow_offset_x = 1
+theme_override_constants/shadow_offset_y = 1
+theme_override_constants/outline_size = 2
+theme_override_font_sizes/font_size = 10
+text = "1. HARSHIT"
+horizontal_alignment = 1
+
+[node name="Raaj" type="Label" parent="CanvasLayer/CreditsModal/Panel/VBox/NamesBox"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.65, 0.92, 1, 1)
+theme_override_colors/font_shadow_color = Color(0.05, 0.1, 0.2, 0.95)
+theme_override_constants/shadow_offset_x = 1
+theme_override_constants/shadow_offset_y = 1
+theme_override_constants/outline_size = 2
+theme_override_font_sizes/font_size = 10
+text = "2. RAAJ"
+horizontal_alignment = 1
+
+[node name="Rishabh" type="Label" parent="CanvasLayer/CreditsModal/Panel/VBox/NamesBox"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.95, 0.75, 1, 1)
+theme_override_colors/font_shadow_color = Color(0.15, 0.05, 0.2, 0.95)
+theme_override_constants/shadow_offset_x = 1
+theme_override_constants/shadow_offset_y = 1
+theme_override_constants/outline_size = 2
+theme_override_font_sizes/font_size = 10
+text = "3. RISHABH"
+horizontal_alignment = 1
+
+[node name="Spacer2" type="Control" parent="CanvasLayer/CreditsModal/Panel/VBox"]
+custom_minimum_size = Vector2(0, 3)
+layout_mode = 2
+
+[node name="Motto" type="Label" parent="CanvasLayer/CreditsModal/Panel/VBox"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.85, 0.75, 0.65, 0.8)
+theme_override_font_sizes/font_size = 7
+text = "FALL. FIGHT. RISE STRONGER."
+horizontal_alignment = 1
+
+[node name="CloseBtn" type="Button" parent="CanvasLayer/CreditsModal/Panel/VBox"]
+layout_mode = 2
+theme_override_colors/font_color = Color(1, 0.9, 0.9, 1)
+theme_override_font_sizes/font_size = 8
+theme_override_styles/normal = SubResource("StyleBoxFlat_btn_normal")
+theme_override_styles/hover = SubResource("StyleBoxFlat_btn_hover")
+text = "✕ CLOSE (ESC / ENTER)"
+
 [connection signal="pressed" from="CanvasLayer/CenterContainer/VBox/MenuButtons/PlayCampaignBtn" to="." method="_on_play_campaign_pressed"]
 [connection signal="pressed" from="CanvasLayer/CenterContainer/VBox/MenuButtons/TrainingBtn" to="." method="_on_training_pressed"]
 [connection signal="pressed" from="CanvasLayer/CenterContainer/VBox/MenuButtons/StoryBtn" to="." method="_on_story_pressed"]
+[connection signal="pressed" from="CanvasLayer/CenterContainer/VBox/MenuButtons/CreditsBtn" to="." method="_on_credits_pressed"]
 [connection signal="pressed" from="CanvasLayer/CenterContainer/VBox/MenuButtons/QuitBtn" to="." method="_on_quit_pressed"]
 [connection signal="pressed" from="CanvasLayer/StoryModal/Panel/VBox/BottomRow/PrevBtn" to="." method="_on_prev_chapter_pressed"]
 [connection signal="pressed" from="CanvasLayer/StoryModal/Panel/VBox/BottomRow/NextBtn" to="." method="_on_next_chapter_pressed"]
 [connection signal="pressed" from="CanvasLayer/StoryModal/Panel/VBox/BottomRow/CloseBtn" to="." method="_on_close_story_pressed"]
+[connection signal="pressed" from="CanvasLayer/CreditsModal/Panel/VBox/CloseBtn" to="." method="_on_close_credits_pressed"]

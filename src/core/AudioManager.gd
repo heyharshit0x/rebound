@@ -4,6 +4,7 @@ extends Node
 ## Maintains polyphonic voice pool to prevent cutting off combat impacts.
 
 const MAIN_BGM_PATH: String = "res://assets/audio/Powerful Massive And Dramatic Neo Classical Violin Music - The Demand of Man(MP3_160K).mp3"
+const STORY_CREDITS_BGM_PATH: String = "res://assets/audio/bgm_story_credits.mp3"
 
 const SFX_REGISTRY: Dictionary = {
 	&"jump": "res://assets/audio/sfx_jump.wav",
@@ -24,6 +25,8 @@ const SFX_REGISTRY: Dictionary = {
 }
 
 var _bgm_player: AudioStreamPlayer = null
+var _story_credits_stream: AudioStream = null
+var _main_bgm_stream: AudioStream = null
 var _sfx_pool: Array[AudioStreamPlayer] = []
 var _sfx_streams: Dictionary = {}
 var _pool_index: int = 0
@@ -41,8 +44,10 @@ func _setup_bgm_player() -> void:
 	_bgm_player.bus = &"Master"
 	_bgm_player.volume_db = 1.0
 	if ResourceLoader.exists(MAIN_BGM_PATH):
-		var stream: AudioStream = load(MAIN_BGM_PATH) as AudioStream
-		_bgm_player.stream = stream
+		_main_bgm_stream = load(MAIN_BGM_PATH) as AudioStream
+		_bgm_player.stream = _main_bgm_stream
+	if ResourceLoader.exists(STORY_CREDITS_BGM_PATH):
+		_story_credits_stream = load(STORY_CREDITS_BGM_PATH) as AudioStream
 	add_child(_bgm_player)
 
 	for i in range(POOL_SIZE):
@@ -68,6 +73,26 @@ func _connect_events() -> void:
 func play_bgm() -> void:
 	if _bgm_player and _bgm_player.stream:
 		if not _bgm_player.playing:
+			_bgm_player.play()
+
+func play_story_credits_bgm() -> void:
+	if _story_credits_stream == null and ResourceLoader.exists(STORY_CREDITS_BGM_PATH):
+		_story_credits_stream = load(STORY_CREDITS_BGM_PATH) as AudioStream
+	if _bgm_player and _story_credits_stream:
+		if _bgm_player.stream != _story_credits_stream or not _bgm_player.playing:
+			_bgm_player.stop()
+			_bgm_player.stream = _story_credits_stream
+			_bgm_player.volume_db = 1.0
+			_bgm_player.play()
+
+func restore_main_bgm() -> void:
+	if _main_bgm_stream == null and ResourceLoader.exists(MAIN_BGM_PATH):
+		_main_bgm_stream = load(MAIN_BGM_PATH) as AudioStream
+	if _bgm_player and _main_bgm_stream:
+		if _bgm_player.stream != _main_bgm_stream or not _bgm_player.playing:
+			_bgm_player.stop()
+			_bgm_player.stream = _main_bgm_stream
+			_bgm_player.volume_db = 1.0
 			_bgm_player.play()
 
 func stop_bgm() -> void:

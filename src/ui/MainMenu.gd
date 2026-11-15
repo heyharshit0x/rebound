@@ -10,6 +10,7 @@ extends Control
 @onready var story_title: Label = $CanvasLayer/StoryModal/Panel/VBox/ChapterTitle
 @onready var story_body: Label = $CanvasLayer/StoryModal/Panel/VBox/StoryBody
 @onready var story_page: Label = $CanvasLayer/StoryModal/Panel/VBox/BottomRow/PageLabel
+@onready var credits_modal: Control = $CanvasLayer/CreditsModal
 
 const STORY_CHAPTERS: Array[Dictionary] = [
 	{
@@ -37,6 +38,7 @@ var _buttons: Array[Button] = []
 func _ready() -> void:
 	AudioManager.play_bgm()
 	story_modal.visible = false
+	credits_modal.visible = false
 	_gather_buttons()
 	_update_cursor()
 
@@ -55,6 +57,11 @@ func _gather_buttons() -> void:
 				)
 
 func _unhandled_input(event: InputEvent) -> void:
+	if credits_modal.visible:
+		if event.is_action_pressed("ui_cancel") or event.is_action_pressed("jump") or event.is_action_pressed("ui_accept"):
+			_close_credits()
+		return
+
 	if story_modal.visible:
 		if event.is_action_pressed("ui_cancel"):
 			_close_story()
@@ -80,6 +87,7 @@ func _update_cursor() -> void:
 		"PLAY CAMPAIGN (LEVEL 1)",
 		"TRAINING AREA (PROLOGUE)",
 		"STORY OF REBOUND",
+		"CREDITS",
 		"QUIT GAME"
 	]
 	for i in range(_buttons.size()):
@@ -95,22 +103,38 @@ func _activate_selected() -> void:
 	AudioManager.play_sfx(&"ui_click", 1.5)
 	match _selected_index:
 		0: # Play Campaign (Direct into Level 1)
+			AudioManager.restore_main_bgm()
 			get_tree().change_scene_to_file("res://src/levels/Level01.tscn")
 		1: # Training Area (Chamber with dummy, moves to Level 1 through portal)
+			AudioManager.restore_main_bgm()
 			get_tree().change_scene_to_file("res://src/levels/TrainingChamber.tscn")
 		2: # Story Chronicles
 			_open_story()
-		3: # Quit Game
+		3: # Credits
+			_open_credits()
+		4: # Quit Game
 			get_tree().quit()
 
 func _open_story() -> void:
 	_current_chapter = 0
 	_render_chapter()
 	story_modal.visible = true
+	AudioManager.play_story_credits_bgm()
 
 func _close_story() -> void:
 	AudioManager.play_sfx(&"ui_click", 1.0)
 	story_modal.visible = false
+	AudioManager.restore_main_bgm()
+
+func _open_credits() -> void:
+	AudioManager.play_sfx(&"ui_click", 1.5)
+	credits_modal.visible = true
+	AudioManager.play_story_credits_bgm()
+
+func _close_credits() -> void:
+	AudioManager.play_sfx(&"ui_click", 1.0)
+	credits_modal.visible = false
+	AudioManager.restore_main_bgm()
 
 func _prev_chapter() -> void:
 	if _current_chapter > 0:
@@ -126,6 +150,7 @@ func _next_chapter() -> void:
 	else:
 		# End of story -> Begin Game!
 		AudioManager.play_sfx(&"ui_click", 2.0)
+		AudioManager.restore_main_bgm()
 		get_tree().change_scene_to_file("res://src/levels/TrainingChamber.tscn")
 
 func _render_chapter() -> void:
@@ -150,8 +175,12 @@ func _on_story_pressed() -> void:
 	_selected_index = 2
 	_activate_selected()
 
-func _on_quit_pressed() -> void:
+func _on_credits_pressed() -> void:
 	_selected_index = 3
+	_activate_selected()
+
+func _on_quit_pressed() -> void:
+	_selected_index = 4
 	_activate_selected()
 
 func _on_prev_chapter_pressed() -> void:
@@ -162,3 +191,6 @@ func _on_next_chapter_pressed() -> void:
 
 func _on_close_story_pressed() -> void:
 	_close_story()
+
+func _on_close_credits_pressed() -> void:
+	_close_credits()
